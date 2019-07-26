@@ -1,0 +1,289 @@
+reading mlfsom.params
+Fs     pristine.mtz
+
+files  /data3/jamesh/fakedata/latest/fake_1_###.img
+start  1
+end    100
+
+cell   77.2070 77.2070 38.8130 90.0000 90.0000 90.0000
+mosaic 0.23
+rock   disk
+
+phi0   342
+phiend 442
+range  100
+osc    1
+frames 100
+nwaves 1
+
+dist   250.432
+wave   0.979338
+misset 0 0 0
+matrix none
+beam   159.25 154.96
+spindle_swing   -0.0951363
+
+xtal   77.8 um
+air     37000 um
+water   100 um
+Paratone-N 150 um
+half-dose 45 MGy
+dose ratio: 2000ph/um^2/Gy ph/um^2/Gy
+
+/home/jamesh/Develop/hkl2XYphi.awk
+generating all spot predictions
+RESOLUTION    1.200
+WAVELENGTH    0.979338
+DISPERSION    0.003
+DIVERGENCE    0.115 0.0172
+MOSAIC        0.23
+SPEEDUP_PIX   1.5
+SPEEDUP_PHI   1
+POLARISATION  0.9
+DISTANCE      250.432
+PIXEL         0.102539
+DETSIZE       315
+BEAM          159.25 154.96
+BEAMSIZE      100
+XTALSIZE      77.8
+TWOTHETA      0
+TILT          0.365708deg
+TWIST         0.1145deg
+MISSETS       0 0 0
+CELL          77.2070 77.2070 38.8130 90.0000 90.0000 90.0000
+MATRIX        none
+SPINDLE       -0.0951363
+AIR_MU        3220
+WINDOW_THICK  12.7um
+WINDOW_MU     610um
+DET_THICK     40um
+DET_MU        10.9um
+DET_MUEN      11.1um
+DET_MFP       100um
+# approximate a flat loop mu=4700 microns
+ABSORB   70    0    0   4700
+ABSORB  -70    0    0   4700
+ABSORB    0  170    0   4700
+ABSORB    0 -170    0   4700
+ABSORB    0    0  200   4700
+ABSORB    0    0 -600   4700
+ABSORB    0  120  120   4700
+ABSORB    0 -120  120   4700
+ABSORB    0  150  -80   4700
+ABSORB    0 -150  -80   4700
+monitoring a few: 
+   h    k    l        phi     delta-phi         L*p/A/y   subspots     Xdet        Ydet           tilt        width1      width2
+ -45   -7   -1       64.3058  0.1453650952      0.68714844  96      3166.5379   1442.9422        -2.3839      2.6941      2.4343
+ -44  -11   -5       58.4161  0.1499119941      0.68798077 128      3165.9191   1146.3334       -54.3269      2.5141      2.3784
+ -43  -15   -1       53.9170  0.1453650952      0.68073999  96      3166.5379   1442.9422        -2.3839      2.6941      2.4343
+ -42  -17   -6       50.0488  0.1123194300      0.68736447 128      3166.9765   1068.8998       -50.6130      2.5497      2.3916
+ -41  -19   -7       46.8360  0.1143045051      0.68902281 128      3165.3950    992.5380       -47.4170      2.5867      2.4054
+ -40  -21   -7       44.0040  0.1143040198      0.68837646 128      3164.8806    992.5874       -47.3886      2.5861      2.4049
+ -39  -23   -6       41.5671  0.1123156785       0.6853422 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+ -38  -25   -3       39.5778  0.1471808750       0.6795803  96      3166.7319   1295.3031        -7.4357      2.7198      2.4414
+ -37  -26   -7       36.5924  0.1143059741      0.68852734 128      3166.9379    992.3897       -47.5020      2.5886      2.4071
+ -36  -27   -9       33.8286  0.1192014648      0.69544909 128      3166.2973    836.1336       -42.4333      2.6823      2.4496
+ -35  -29   -4       33.0622  0.1487730291       0.6801316  96      3167.5479   1220.9017        -9.5411      2.7431      2.4491
+ -34  -30   -5       31.0327  0.1499105232      0.67921618 128      3165.4086   1146.3673       -54.2933      2.5135      2.3778
+ -33  -31   -6       28.8867  0.1123156785      0.67972973 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+ -32  -32   -6       27.1046  0.1123131848      0.67798002 128      3164.4156   1069.1091       -50.4586      2.5466      2.3888
+ -31  -33   -6       25.3069  0.1123156785      0.67704572 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+ -30  -34   -5       23.8800  0.1499105232      0.67369052 128      3165.4086   1146.3673       -54.2933      2.5135      2.3778
+ -29  -35   -4       22.3505  0.1487730291      0.67155932  96      3167.5479   1220.9017        -9.5411      2.7431      2.4491
+ -28  -35  -10       18.7787  0.1221076530      0.68727613 176      3163.7225    756.8553       -52.0909      2.7131      2.2300
+ -27  -36   -9       17.5684  0.1192014648      0.68325932 128      3166.2973    836.1336       -42.4333      2.6823      2.4496
+ -26  -37   -7       16.7840  0.1143059741      0.67600847 128      3166.9379    992.3897       -47.5020      2.5886      2.4071
+ -25  -38   -3       16.2592  0.1471808750      0.66707845  96      3166.7319   1295.3031        -7.4357      2.7198      2.4414
+ -24  -38   -9       12.9922  0.1192083016      0.68075342 128      3163.6985    836.4594       -42.3124      2.6791      2.4467
+ -23  -39   -6       12.6265  0.1123156785      0.67126652 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+ -22  -39  -11        8.8505  0.1220941240      0.68988426 220      3167.3909    674.5870       -38.9347      2.5589      2.2317
+ -21  -40   -7        9.4030  0.1143040198      0.67301098 128      3164.8806    992.5874       -47.3886      2.5861      2.4049
+ -20  -40  -11        6.0047  0.1221151490      0.68836432 220      3164.7575    674.9962       -38.8509      2.5563      2.2292
+ -19  -41   -7        6.5634  0.1143045051      0.67250458 128      3165.3950    992.5380       -47.4170      2.5867      2.4054
+ -18  -41  -11        3.1257  0.1220941240      0.68862923 220      3167.3909    674.5870       -38.9347      2.5589      2.2317
+ -17  -42   -6        4.1212  0.1123194300      0.66969727 128      3166.9765   1068.8998       -50.6130      2.5497      2.3916
+ -16  -42   -9        1.5710  0.1192083016      0.67809607 128      3163.6985    836.4594       -42.3124      2.6791      2.4467
+ -15  -43   -1        2.3783  0.1453650952      0.66181105  96      3166.5379   1442.9422        -2.3839      2.6941      2.4343
+ -14  -43   -7       -0.2775  0.1143059741      0.67178489 128      3166.9379    992.3897       -47.5020      2.5886      2.4071
+ -13  -43   -9       -2.4549  0.1192110637      0.67720953 128      3162.6589    836.5896       -42.2641      2.6778      2.4455
+ -12  -43  -12       -5.7300  0.1255215533      0.69280713 220      3167.2965    590.9312       -36.8642      2.6191      2.2584
+ -11  -44   -5       -3.5114  0.1499119941      0.66588147 128      3165.9191   1146.3334       -54.3269      2.5141      2.3784
+ -10  -44   -8       -5.9705  0.1165986887      0.67440977 128      3166.9023    914.8374       -44.8184      2.6329      2.4266
+  -9  -44   -9       -7.7125  0.1192124507      0.67654477 128      3162.1391    836.6547       -42.2399      2.6772      2.4449
+  -8  -44  -11      -10.2555  0.1221151490      0.68626098 220      3164.7575    674.9962       -38.8509      2.5563      2.2292
+  -7  -45   -1       -8.0105  0.1453650952      0.66065237  96      3166.5379   1442.9422        -2.3839      2.6941      2.4343
+  -6  -45   -4       -9.6787  0.1487634259      0.66321798  96      3165.0030   1221.0352        -9.5042      2.7406      2.4458
+  -5  -45   -6      -11.5630  0.1123156785      0.66754302 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+  -4  -45   -7      -13.2169  0.1143040198      0.67010663 128      3164.8806    992.5874       -47.3886      2.5861      2.4049
+  -3  -45   -8      -14.9532  0.1165994466      0.67363768 128      3165.8687    914.9518       -44.7661      2.6317      2.4255
+  -2  -45   -8      -16.2038  0.1166013936      0.67282409 128      3163.2844    915.2375       -44.6355      2.6285      2.4226
+  -1  -45   -9      -18.0321  0.1192001091      0.67767773 128      3166.8170    836.0684       -42.4575      2.6830      2.4502
+   0  -45   -9      -19.3015  0.1192014648      0.67753256 128      3166.2973    836.1336       -42.4333      2.6823      2.4496
+   1  -45   -9      -20.5782  0.1192001091      0.67772367 128      3166.8170    836.0684       -42.4575      2.6830      2.4502
+   2  -45   -8      -21.2934  0.1166013936      0.67289615 128      3163.2844    915.2375       -44.6355      2.6285      2.4226
+   3  -45   -8      -22.5814  0.1165994466      0.67374602 128      3165.8687    914.9518       -44.7661      2.6317      2.4255
+   4  -45   -7      -23.3761  0.1143040198      0.67021714 128      3164.8806    992.5874       -47.3886      2.5861      2.4049
+   5  -45   -6      -24.2434  0.1123156785      0.66764528 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+   6  -45   -4      -24.8680  0.1487634259      0.66327316  96      3165.0030   1221.0352        -9.5042      2.7406      2.4458
+   7  -45   -1      -25.6942  0.1453650952      0.66066292  96      3166.5379   1442.9422        -2.3839      2.6941      2.4343
+   8  -44  -11      -30.8652  0.1221151490      0.68685256 220      3164.7575    674.9962       -38.8509      2.5563      2.2292
+   9  -44   -9      -30.8328  0.1192124507      0.67698143 128      3162.1391    836.6547       -42.2399      2.6772      2.4449
+  10  -44   -8      -31.5790  0.1165986887      0.67479297 128      3166.9023    914.8374       -44.8184      2.6329      2.4266
+  11  -44   -5      -31.5839  0.1499119941      0.66604444 128      3165.9191   1146.3334       -54.3269      2.5141      2.3784
+  12  -43  -12      -36.9156  0.1255215533       0.6939477 220      3167.2965    590.9312       -36.8642      2.6191      2.2584
+  13  -43   -9      -36.0977  0.1192110637      0.67787983 128      3162.6589    836.5896       -42.2641      2.6778      2.4455
+  14  -43   -7      -36.3461  0.1143059741      0.67222134 128      3166.9379    992.3897       -47.5020      2.5886      2.4071
+  15  -43   -1      -36.0830  0.1453650952       0.6618365  96      3166.5379   1442.9422        -2.3839      2.6941      2.4343
+  16  -42   -9      -40.1379  0.1192083016      0.67897512 128      3163.6985    836.4594       -42.3124      2.6791      2.4467
+  17  -42   -6      -39.9512  0.1123194300      0.67011481 128      3166.9765   1068.8998       -50.6130      2.5497      2.3916
+  18  -41  -11      -44.2796  0.1220941240      0.69023999 220      3167.3909    674.5870       -38.9347      2.5589      2.2317
+  19  -41   -7      -43.1640  0.1143045051      0.67317652 128      3165.3950    992.5380       -47.4170      2.5867      2.4054
+  20  -40  -11      -47.1254  0.1221151490      0.69027433 220      3164.7575    674.9962       -38.8509      2.5563      2.2292
+  21  -40   -7      -45.9960  0.1143040198      0.67380502 128      3164.8806    992.5874       -47.3886      2.5861      2.4049
+  22  -39  -11      -50.0044  0.1220941240      0.69214428 220      3167.3909    674.5870       -38.9347      2.5589      2.2317
+  23  -39   -6      -48.4329  0.1123156785      0.67195717 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+  24  -38   -9      -51.5591  0.1192083016      0.68248983 128      3163.6985    836.4594       -42.3124      2.6791      2.4467
+  25  -38   -3      -50.4222  0.1471808750      0.66729747  96      3166.7319   1295.3031        -7.4357      2.7198      2.4414
+  26  -37   -7      -53.4076  0.1143059741      0.67723538 128      3166.9379    992.3897       -47.5020      2.5886      2.4071
+  27  -36   -9      -56.1714  0.1192014648      0.68554908 128      3166.2973    836.1336       -42.4333      2.6823      2.4496
+  28  -35  -10      -58.5409  0.1221076530      0.69047591 176      3163.7225    756.8553       -52.0909      2.7131      2.2300
+  29  -35   -4      -56.9378  0.1487730291      0.67209612  96      3167.5479   1220.9017        -9.5411      2.7431      2.4491
+  30  -34   -5      -58.9673  0.1499105232      0.67460837 128      3165.4086   1146.3673       -54.2933      2.5135      2.3778
+  31  -33   -6      -61.1133  0.1123156785      0.67856847 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+  32  -32   -6      -62.8954  0.1123131848      0.67971001 128      3164.4156   1069.1091       -50.4586      2.5466      2.3888
+  33  -31   -6      -64.6931  0.1123156785      0.68171041 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+  34  -30   -5      -66.1200  0.1499105232       0.6807713 128      3165.4086   1146.3673       -54.2933      2.5135      2.3778
+  35  -29   -4      -67.6495  0.1487730291      0.68128178  96      3167.5479   1220.9017        -9.5411      2.7431      2.4491
+  36  -27   -9      -72.4316  0.1192014648      0.69539782 128      3166.2973    836.1336       -42.4333      2.6823      2.4496
+  37  -26   -7      -73.2160  0.1143059741      0.68840737 128      3166.9379    992.3897       -47.5020      2.5886      2.4071
+  38  -25   -3      -73.7408  0.1471808750      0.67958404  96      3166.7319   1295.3031        -7.4357      2.7198      2.4414
+  39  -23   -6      -77.3735  0.1123156785       0.6854748 128      3165.4400   1069.0254       -50.5204      2.5479      2.3899
+  40  -21   -7      -80.5970  0.1143040198      0.68875365 128      3164.8806    992.5874       -47.3886      2.5861      2.4049
+  41  -19   -7      -83.4366  0.1143045051      0.68962048 128      3165.3950    992.5380       -47.4170      2.5867      2.4054
+  42  -17   -6      -85.8788  0.1123194300      0.68798853 128      3166.9765   1068.8998       -50.6130      2.5497      2.3916
+  43  -15   -1      -87.6217  0.1453650952      0.68080181  96      3166.5379   1442.9422        -2.3839      2.6941      2.4343
+  44  -11   -5      -93.5114  0.1499119941      0.68889468 128      3165.9191   1146.3334       -54.3269      2.5141      2.3784
+  45   -7   -1      -98.0105  0.1453650952      0.68729637  96      3166.5379   1442.9422        -2.3839      2.6941      2.4343
+
+Thu Jun 11 18:38:06 PDT 2015 9267.940 s to complete 70937929 predictions
+getting Fplus and Fminus out of pristine.mtz
+getting Fplus and Fminus out of decayed.mtz
+extracting F+ and F- for +h,+k,+l
+extracting F+ and F- for +h,+k,+l from decayed.mtz
+extracting F+ and F- for -k,+h,+l
+extracting F+ and F- for -k,+h,+l from decayed.mtz
+extracting F+ and F- for -h,-k,+l
+extracting F+ and F- for -h,-k,+l from decayed.mtz
+extracting F+ and F- for +k,-h,+l
+extracting F+ and F- for +k,-h,+l from decayed.mtz
+extracting F+ and F- for +h,-k,-l
+extracting F+ and F- for +h,-k,-l from decayed.mtz
+extracting F+ and F- for +k,+h,-l
+extracting F+ and F- for +k,+h,-l from decayed.mtz
+extracting F+ and F- for -h,+k,-l
+extracting F+ and F- for -h,+k,-l from decayed.mtz
+extracting F+ and F- for -k,-h,-l
+extracting F+ and F- for -k,-h,-l from decayed.mtz
+Thu Jun 11 18:38:29 PDT 2015 23.076 s to complete expansion
+creating vignette mask...
+using ./ripplemask.f2d
+/data3/jamesh/fakedata/latest/fake_1_001.img already exists
+/data3/jamesh/fakedata/latest/fake_1_002.img already exists
+/data3/jamesh/fakedata/latest/fake_1_003.img already exists
+/data3/jamesh/fakedata/latest/fake_1_004.img already exists
+/data3/jamesh/fakedata/latest/fake_1_005.img already exists
+/data3/jamesh/fakedata/latest/fake_1_006.img already exists
+/data3/jamesh/fakedata/latest/fake_1_007.img already exists
+/data3/jamesh/fakedata/latest/fake_1_008.img already exists
+/data3/jamesh/fakedata/latest/fake_1_009.img already exists
+/data3/jamesh/fakedata/latest/fake_1_010.img already exists
+/data3/jamesh/fakedata/latest/fake_1_011.img already exists
+/data3/jamesh/fakedata/latest/fake_1_012.img already exists
+/data3/jamesh/fakedata/latest/fake_1_013.img already exists
+/data3/jamesh/fakedata/latest/fake_1_014.img already exists
+/data3/jamesh/fakedata/latest/fake_1_015.img already exists
+/data3/jamesh/fakedata/latest/fake_1_016.img already exists
+/data3/jamesh/fakedata/latest/fake_1_017.img already exists
+/data3/jamesh/fakedata/latest/fake_1_018.img already exists
+/data3/jamesh/fakedata/latest/fake_1_019.img already exists
+/data3/jamesh/fakedata/latest/fake_1_020.img already exists
+/data3/jamesh/fakedata/latest/fake_1_021.img already exists
+/data3/jamesh/fakedata/latest/fake_1_022.img already exists
+/data3/jamesh/fakedata/latest/fake_1_023.img already exists
+/data3/jamesh/fakedata/latest/fake_1_024.img already exists
+/data3/jamesh/fakedata/latest/fake_1_025.img already exists
+/data3/jamesh/fakedata/latest/fake_1_026.img already exists
+/data3/jamesh/fakedata/latest/fake_1_027.img already exists
+/data3/jamesh/fakedata/latest/fake_1_028.img already exists
+/data3/jamesh/fakedata/latest/fake_1_029.img already exists
+/data3/jamesh/fakedata/latest/fake_1_030.img already exists
+/data3/jamesh/fakedata/latest/fake_1_031.img already exists
+/data3/jamesh/fakedata/latest/fake_1_032.img already exists
+/data3/jamesh/fakedata/latest/fake_1_033.img already exists
+/data3/jamesh/fakedata/latest/fake_1_034.img already exists
+/data3/jamesh/fakedata/latest/fake_1_035.img already exists
+/data3/jamesh/fakedata/latest/fake_1_036.img already exists
+/data3/jamesh/fakedata/latest/fake_1_037.img already exists
+/data3/jamesh/fakedata/latest/fake_1_038.img already exists
+/data3/jamesh/fakedata/latest/fake_1_039.img already exists
+/data3/jamesh/fakedata/latest/fake_1_040.img already exists
+/data3/jamesh/fakedata/latest/fake_1_041.img already exists
+/data3/jamesh/fakedata/latest/fake_1_042.img already exists
+/data3/jamesh/fakedata/latest/fake_1_043.img already exists
+/data3/jamesh/fakedata/latest/fake_1_044.img already exists
+/data3/jamesh/fakedata/latest/fake_1_045.img already exists
+/data3/jamesh/fakedata/latest/fake_1_046.img already exists
+/data3/jamesh/fakedata/latest/fake_1_047.img already exists
+/data3/jamesh/fakedata/latest/fake_1_048.img already exists
+/data3/jamesh/fakedata/latest/fake_1_049.img already exists
+/data3/jamesh/fakedata/latest/fake_1_050.img already exists
+/data3/jamesh/fakedata/latest/fake_1_051.img already exists
+/data3/jamesh/fakedata/latest/fake_1_052.img already exists
+/data3/jamesh/fakedata/latest/fake_1_053.img already exists
+/data3/jamesh/fakedata/latest/fake_1_054.img already exists
+/data3/jamesh/fakedata/latest/fake_1_055.img already exists
+/data3/jamesh/fakedata/latest/fake_1_056.img already exists
+/data3/jamesh/fakedata/latest/fake_1_057.img already exists
+/data3/jamesh/fakedata/latest/fake_1_058.img already exists
+/data3/jamesh/fakedata/latest/fake_1_059.img already exists
+/data3/jamesh/fakedata/latest/fake_1_060.img already exists
+/data3/jamesh/fakedata/latest/fake_1_061.img already exists
+/data3/jamesh/fakedata/latest/fake_1_062.img already exists
+/data3/jamesh/fakedata/latest/fake_1_063.img already exists
+/data3/jamesh/fakedata/latest/fake_1_064.img already exists
+/data3/jamesh/fakedata/latest/fake_1_065.img already exists
+/data3/jamesh/fakedata/latest/fake_1_066.img already exists
+/data3/jamesh/fakedata/latest/fake_1_067.img already exists
+/data3/jamesh/fakedata/latest/fake_1_068.img already exists
+/data3/jamesh/fakedata/latest/fake_1_069.img already exists
+/data3/jamesh/fakedata/latest/fake_1_070.img already exists
+/data3/jamesh/fakedata/latest/fake_1_071.img already exists
+/data3/jamesh/fakedata/latest/fake_1_072.img already exists
+/data3/jamesh/fakedata/latest/fake_1_073.img already exists
+/data3/jamesh/fakedata/latest/fake_1_074.img already exists
+/data3/jamesh/fakedata/latest/fake_1_075.img already exists
+/data3/jamesh/fakedata/latest/fake_1_076.img already exists
+/data3/jamesh/fakedata/latest/fake_1_077.img already exists
+/data3/jamesh/fakedata/latest/fake_1_078.img already exists
+/data3/jamesh/fakedata/latest/fake_1_079.img already exists
+/data3/jamesh/fakedata/latest/fake_1_080.img already exists
+/data3/jamesh/fakedata/latest/fake_1_081.img already exists
+/data3/jamesh/fakedata/latest/fake_1_082.img already exists
+/data3/jamesh/fakedata/latest/fake_1_083.img already exists
+/data3/jamesh/fakedata/latest/fake_1_084.img already exists
+/data3/jamesh/fakedata/latest/fake_1_085.img already exists
+/data3/jamesh/fakedata/latest/fake_1_086.img already exists
+/data3/jamesh/fakedata/latest/fake_1_087.img already exists
+/data3/jamesh/fakedata/latest/fake_1_088.img already exists
+/data3/jamesh/fakedata/latest/fake_1_089.img already exists
+/data3/jamesh/fakedata/latest/fake_1_090.img already exists
+/data3/jamesh/fakedata/latest/fake_1_091.img already exists
+/data3/jamesh/fakedata/latest/fake_1_092.img already exists
+/data3/jamesh/fakedata/latest/fake_1_093.img already exists
+/data3/jamesh/fakedata/latest/fake_1_094.img already exists
+/data3/jamesh/fakedata/latest/fake_1_095.img already exists
+/data3/jamesh/fakedata/latest/fake_1_096.img already exists
+/data3/jamesh/fakedata/latest/fake_1_097.img already exists
+/data3/jamesh/fakedata/latest/fake_1_098.img already exists
+/data3/jamesh/fakedata/latest/fake_1_099.img already exists
+/data3/jamesh/fakedata/latest/fake_1_100.img already exists

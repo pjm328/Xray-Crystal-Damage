@@ -1,0 +1,7 @@
+distl.minimum_spot_area=4
+distl.minimum_signal_height=2.5
+distl.minimum_spot_height=3.5
+distl.spot_area_maximum_factor=10.0
+distl.peak_intensity_maximum_factor=10.0
+distl.peripheral_margin=10
+distl_profile_bumpiness=4

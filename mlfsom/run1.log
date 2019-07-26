@@ -1,0 +1,112 @@
+reading mlfsom.params
+Fs     pristine.mtz
+
+files  /home/peter/Desktop/Summer_Research_2019/mlfsom/data/fake_mosseq2-0.05_###.img
+start  1
+end    001
+
+cell   77.2500 77.2500 38.6600 90.0000 90.0000 90.0000
+mosaic 0.05
+rock   disk
+
+phi0   342
+phiend 342.01
+range  0.01
+osc    0.01
+frames 1
+nwaves 1
+
+dist   250.432
+wave   1
+misset 12.345 67.89 101.112
+matrix none
+beam   211.8 217.3
+spindle_swing   -0.0951363
+
+xtal   77.8 um
+air     37000 um
+water   100 um
+Paratone-N 150 um
+
+./hkl2XYphi.awk
+generating all spot predictions
+RESOLUTION    1.200
+WAVELENGTH    1
+DISPERSION    0.003
+DIVERGENCE    0.115 0.0172
+MOSAIC        0.05
+SPEEDUP_PIX   1.5
+SPEEDUP_PHI   1.0
+POLARISATION  0.9
+DISTANCE      250.432
+PIXEL         0.172
+DETSIZE       423.636
+BEAM          211.8 217.3
+BEAMSIZE      100
+XTALSIZE      77.8
+TWOTHETA      0
+TILT          0.365708deg
+TWIST         0.1145deg
+MISSETS       12.345 67.89 101.112
+CELL          77.2500 77.2500 38.6600 90.0000 90.0000 90.0000
+MATRIX        none
+SPINDLE       -0.0951363
+AIR_MU        3220
+WINDOW_THICK  12.7um
+WINDOW_MU     610um
+DET_THICK     450um
+DET_MU        252um
+DET_MUEN      263um
+DET_MFP       10um
+# approximate a flat loop mu=4700 microns
+ABSORB   70    0    0   4700
+ABSORB  -70    0    0   4700
+ABSORB    0  170    0   4700
+ABSORB    0 -170    0   4700
+ABSORB    0    0  200   4700
+ABSORB    0    0 -600   4700
+ABSORB    0  120  120   4700
+ABSORB    0 -120  120   4700
+ABSORB    0  150  -80   4700
+ABSORB    0 -150  -80   4700
+monitoring a few: 
+   h    k    l        phi     delta-phi         L*p/A/y   subspots     Xdet        Ydet           tilt        width1      width2
+ -58  -12  -12      -54.1691  0.0569683473      0.94924775 420      2317.6012   2519.5098        35.7195      2.7883      1.9164
+ -57  -22  -10      -67.2287  0.0566317641      0.97675803 390      2344.9468   2519.7740        36.5330      2.8198      1.9399
+ -56  -26   -9      -72.3096  0.0556852358      0.98260798 390      2362.4349   2505.4076        37.4176      2.8190      1.9433
+ -55  -30   -7      -79.3807  0.0561487666      0.97868615 390      2349.8479   2509.4748        36.9387      2.8102      1.9358
+
+Wed Jun 26 12:58:17 PM EDT 2019 29.763 s to complete 679777 predictions
+getting Fplus and Fminus out of pristine.mtz
+extracting F+ and F- for +h,+k,+l
+extracting F+ and F- for -k,+h,+l
+extracting F+ and F- for -h,-k,+l
+extracting F+ and F- for +k,-h,+l
+extracting F+ and F- for +h,-k,-l
+extracting F+ and F- for +k,+h,-l
+extracting F+ and F- for -h,+k,-l
+extracting F+ and F- for -k,-h,-l
+Wed Jun 26 12:58:21 PM EDT 2019 3.793 s to complete expansion
+creating vignette mask...
+creating 1.0%% ripple mask with ~50-pixel ripples
+batch 1	phi: 342 - 342.01
+new flux: 8.4e+10 ph/s
+new xtal size: 90.1408 um
+total exposure is now 0.1 s
+brightness is now 8400000 ph/s/um^2
+total dose is now 0.00042 MGy
+damage A factor is now 5.8212e-05
+damage reaction is now 6.46935e-06 fractional complete
+using 10 phi subranges
+overall flicker: 0.998323
+extracting relavant predictions
+Wed Jun 26 12:58:23 PM EDT 2019 2.770 s to extract 0 preds
+calculating spot intensities
+Wed Jun 26 12:58:25 PM EDT 2019 1.264 s to calculate 0 intensities
+generating /home/peter/Desktop/Summer_Research_2019/mlfsom/data/fake_mosseq2-0.05_001.img
+plotting lorentzian-gaussian spots
+using Cl form-factor for CL
+using Gd form-factor for GD
+fit2d run...
+Wed Jun 26 12:58:29 PM EDT 2019 4.658 s to generate /home/peter/Desktop/Summer_Research_2019/mlfsom/data/fake_mosseq2-0.05_001.img
+

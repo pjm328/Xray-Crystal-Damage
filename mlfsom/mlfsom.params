@@ -1,0 +1,125 @@
+
+# input/output file parameters
+set mtzfile = pristine.mtz
+set decayedmtz = decayed.mtz
+set decay_halfdose = 45
+set outprefix    = /data3/jamesh/fakedata/latest/fake_1
+
+# detector parameters
+set dimx         = 2463pix
+set dimy         = 2527pix
+set pixel        = 0.172mm
+set EOgain       = 1electrons/photon
+set ampgain      = 1electron/adu
+set psf          = 0.01mm
+set readnoise    = 0electrons
+set ripplenoise  = 1.0%
+set ripplenoise_size = 50
+set peak_dqe     = 1.0
+set vignette     = 0
+set spot_type    = lg
+set fiber_length_ratio = 1
+set adcoffset   = 0
+
+set extra_B = 0
+
+set detector_tilt  = 0.365708deg
+set detector_twist = 0.1145deg
+set spindle_swing  = -0.0951363deg
+
+
+# beam parameters
+set exposure     = 0.1s
+set flux         = 8.4e+10ph/s
+set beam_size    = 100um
+# Si(111)
+set dispersion   = 0.00014
+set wavelength   = 1.0A
+# CuKa
+#set dispersion   = 2.5e-3
+#set wavelength   = 1.5418A
+# 2x0.3 mrad
+set divergence   = ( 0.115 0.0172 )
+set polarization = 0.9
+# rms variation of intensity for 1s exposure
+set beam_flicker   = 0.15%/sqrtHz
+# independent of exposure time
+set shutter_jitter = 0.5ms
+#set shutter_jitter = 2.0ms
+
+
+# camera parameters
+set distance    = 250.432mm
+set twotheta    = 0deg
+set beam_center = ( 211.8 217.3 )
+set phi0        = 342deg
+set osc         = 1deg
+set range       = 100
+
+# typical values for 12660 eV
+set mu_air       = 3220mm
+# expected values for ADSC: Gd2O2S:Tb phospor and Al/plastic window
+set window_thick = 12.7um
+set mu_window    = 610um
+set det_thick    = 450um
+set mu_det       = 252um
+set muen_det     = 263um
+# mean-free path of a visible photon in the phosphor
+set phosphor_mfp = 10um
+# minimum width of plotted Gaussians in pixels
+set speedup_pix    = 1.5
+set speedup_phi    = 1.0
+
+# crystal parameters
+set xtal_size   = 77.8um
+set missets     = ( 12.345 67.89 101.112 )
+#set Amatrix     = ( -0.00896115 0.00220108 0.0180775 0.00577772 0.0112002 0.00593684 -0.00735183 0.00611921 -0.017369 )
+#set mosaic      = 0.23deg
+set mosaic      = 0.43deg
+# xtal cell dispersion
+set dispersion    = 0.003
+set rocking_curve = disk
+
+
+# background scatter contributions
+set nonxtal_materials   = ( air     water Paratone-N nanoice iceIh )
+# thickness crossed by the beam (microns)
+set nonxtal_thickness   = ( 37e3    100   150          0       0   )
+# density in g/cm^3
+set nonxtal_densities   = ( 1.88e-3 1.0   0.8        1.0     0.92  )
+# formula weight in amu (corresponding to "electron" units in file)
+set nonxtal_molweight   = ( 28      18    12         18      18    )
+
+
+# arbitrary... need to work on physical origin
+set SAXS_intensity       = 6000photons/s
+set icering_intensity    = 0adu
+set icering_width        = 1.5
+
+# dead zones of a tiled detector
+set windowpanes_x  = 5
+set windowpanes_y  = 12
+set windowpane_width_x = 7pix
+set windowpane_width_y = 17pix
+set windowpane_value = -1
+
+# debugging
+#set frames = 3
+#set spot_type    = pinpoints
+#set spot_type    = gauss
+#set spot_type    = lg
+#set mosaic      = 0.01
+#set spotwidth    = 1
+#set NO_NOISE
+#set NO_BACKGROUND
+#set NO_SPOTS
+#set icering_intensity = 0
+#set SAXS_intensity = 0
+
+set CACHE
+
+set CACHE = images
+
+unset CACHE
+
+

@@ -1,0 +1,12 @@
+# Detector: PILATUS3 6M, S/N 60-0127
+# 2015-03-30T17:44:58.738
+# Pixel_size 172e-6 m x 172e-6 m
+# Silicon sensor, thickness 0.001000 m
+# Exposure_time 0.099 s
+# Exposure_period 0.100 s
+# Count_cutoff 1147141 counts
+# Wavelength 1.0 A
+# Detector_distance 0.250432 m
+# Beam_xy (1263.37, 1231.39) pixels
+# Start_angle 342.0000 deg.
+# Angle_increment 0.01 deg.

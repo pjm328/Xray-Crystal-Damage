@@ -1,0 +1,50 @@
+
+
+How to get started with MLFSOM
+
+First, you need some structure factors:
+
+  you can use any *.mtz file containing an "F" and "DANO" you like
+  if you want completely "fake" F and DANO, then you can use the
+  ano_sfall.com program to generate them from a PDB file.
+
+# generate some fake data from a Gd-soaked lysozyme structure
+./ano_sfall.com energy=12660 1H87.pdb
+
+# This will automatically pick bulk solvent parameters, resolution, etc
+# you can override most of these.
+
+# generate some fake data from a Gd-soaked lysozyme structure
+./ano_sfall.com energy=12660 refined.pdb 1.2A solvent_B=35
+
+# Run ano_sfall.com with no arguments for online help.
+
+# whatever input MTZ file you choose, it should be named "pristine.mtz"
+mv ideal_ano.mtz pristine.mtz
+
+# mlfsom also needs a file called "refined.pdb" in the current working
+# directory to compute diffuse scattering and Compton scattering
+cp 1H87.pdb refine.pdb
+
+
+# you can optionally simulate specific radiation damage by creating a
+# "decayed.mtz" file.  As opposed to the undamaged "pristine.mtz"
+
+grep -v " GD " refined.pdb >! damaged.pdb
+./ano_sfall.com energy=12660 damaged.pdb 1.2A solvent_B=35
+
+mv ideal_ano.mtz decayed.mtz
+
+
+# next, you may want to go over the mlfsom.params most options are
+# specified here, and this file is "sourced" by mlfsom.com when it runs
+vi mlfsom.params
+
+# now you can run mlfsom.com to generate some fake images.  A mosflm-style
+# orientation matrix may be specified on the command line.  You can
+# override most defaults on the command line.  
+./mlfsom.com frames=100 example.mat
+
+Run mlfsom.com with no arguments to get online help.
+
+
