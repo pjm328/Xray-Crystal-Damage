@@ -10,7 +10,7 @@
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:13 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -19,7 +19,7 @@
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_model.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_model.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -34,7 +34,7 @@
 
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile20660.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -84,7 +84,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: HGEN             version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:13 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -93,7 +93,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -107,7 +107,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
    -0.000   0.000  -0.000   1.000       -0.000  -0.000  -0.000   1.000
 
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile20660_hydrogens.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475_hydrogens.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
@@ -206,7 +206,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:13 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -252,7 +252,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORM NGAUSS 5
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_model.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_model.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -313,9 +313,9 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
 
  Breset is -1.00
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile20660_protein.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475_protein.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile20660_protein.map
+File name for output map file on unit   1 : /tmp/peter/tempfile4475_protein.map
 logical name MAPOUT
 
 
@@ -396,9 +396,9 @@ logical name MAPOUT
  SECTION = 12   MIN AND MAX  DENSITY ARE   0.0000E+00  0.9826E+01
  SUM OF DENSITY UP TO  THIS BLOCK IS     0.1195E+06
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile20660_protein.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475_protein.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile20660_protein.map
+File name for input map file on unit   1 : /tmp/peter/tempfile4475_protein.map
 file size 1488512 ; logical name MAPOUT
 
 
@@ -439,7 +439,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:13 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -448,7 +448,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_sites.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_sites.pdb
   PDB file is being opened on unit 1 for INPUT.
 
 
@@ -475,7 +475,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile20660.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -520,7 +520,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAVENV           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:13 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -539,7 +539,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  Data line--- grid 176 176 88
  Data line--- RADMAX 1.41
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_model.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_model.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -568,9 +568,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  output map limits:     1  176    1  176    1   88
 <!--SUMMARY_END--></FONT></B>
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile20660raw_solvent.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475raw_solvent.map 
 
-File name for output map file on unit   8 : /tmp/peter/tempfile20660raw_solvent.map
+File name for output map file on unit   8 : /tmp/peter/tempfile4475raw_solvent.map
 logical name MAPOUT
 
   
@@ -713,9 +713,9 @@ logical name MAPOUT
     Volume of protein (A**3) =    209694.50    
     Fraction of protein =   0.90892547    
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile20660raw_solvent.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475raw_solvent.map 
 
-File name for input map file on unit   8 : /tmp/peter/tempfile20660raw_solvent.map
+File name for input map file on unit   8 : /tmp/peter/tempfile4475raw_solvent.map
 file size 10905216 ; logical name MAPOUT
 
 
@@ -756,7 +756,7 @@ Times: User:       0.4s System:    0.0s Elapsed:     0:01
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -766,9 +766,9 @@ Times: User:       0.4s System:    0.0s Elapsed:     0:01
 <!--SUMMARY_END--></FONT></B>
  Data line--- scale factor 0.334 0
 
- Logical Name: MAPIN   Filename: /tmp/peter/tempfile20660raw_solvent.map 
+ Logical Name: MAPIN   Filename: /tmp/peter/tempfile4475raw_solvent.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile20660raw_solvent.map
+File name for input map file on unit   1 : /tmp/peter/tempfile4475raw_solvent.map
 file size 10905216 ; logical name MAPIN
 
 
@@ -817,9 +817,9 @@ file size 10905216 ; logical name MAPIN
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile20660.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile20660.map
+File name for output map file on unit   1 : /tmp/peter/tempfile4475.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -848,7 +848,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -858,9 +858,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- axis Y X Z
 
- Logical Name: MAPIN   Filename: /tmp/peter/tempfile20660.map 
+ Logical Name: MAPIN   Filename: /tmp/peter/tempfile4475.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile20660.map
+File name for input map file on unit   1 : /tmp/peter/tempfile4475.map
 file size 10905216 ; logical name MAPIN
 
 
@@ -909,9 +909,9 @@ file size 10905216 ; logical name MAPIN
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile206602.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile44752.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile206602.map
+File name for output map file on unit   1 : /tmp/peter/tempfile44752.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -940,7 +940,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -950,9 +950,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- xyzlim 0 175 0 175 0 11
 
- Logical Name: MAPIN   Filename: /tmp/peter/tempfile206602.map 
+ Logical Name: MAPIN   Filename: /tmp/peter/tempfile44752.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile206602.map
+File name for input map file on unit   1 : /tmp/peter/tempfile44752.map
 file size 10905216 ; logical name MAPIN
 
 
@@ -1032,7 +1032,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1094,9 +1094,9 @@ file size 1488512 ; logical name MAPIN1
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile20660xyz_solvent.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475xyz_solvent.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile20660xyz_solvent.map
+File name for output map file on unit   1 : /tmp/peter/tempfile4475xyz_solvent.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -1125,7 +1125,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1135,9 +1135,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- xyzlim -10 98 -10 97 -10 54
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile20660xyz_solvent.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475xyz_solvent.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile20660xyz_solvent.map
+File name for input map file on unit   1 : /tmp/peter/tempfile4475xyz_solvent.map
 file size 1411424 ; logical name MAPIN1
 
 
@@ -1186,9 +1186,9 @@ file size 1411424 ; logical name MAPIN1
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile20660ext.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475ext.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile20660ext.map
+File name for output map file on unit   1 : /tmp/peter/tempfile4475ext.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -1217,7 +1217,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1228,9 +1228,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  Data line--- axis X Y Z
  Data line--- xyzlim 0 88 0 87 0 44
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile20660_smoothsolv.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475_smoothsolv.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile20660_smoothsolv.map
+File name for input map file on unit   1 : /tmp/peter/tempfile4475_smoothsolv.map
 file size 3062384 ; logical name MAPIN1
 
 
@@ -1279,9 +1279,9 @@ file size 3062384 ; logical name MAPIN1
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile20660trimmed.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475trimmed.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile20660trimmed.map
+File name for output map file on unit   1 : /tmp/peter/tempfile4475trimmed.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -1310,7 +1310,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1320,9 +1320,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- axis Y X Z
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile20660trimmed.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475trimmed.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile20660trimmed.map
+File name for input map file on unit   1 : /tmp/peter/tempfile4475trimmed.map
 file size 1411424 ; logical name MAPIN1
 
 
@@ -1371,9 +1371,9 @@ file size 1411424 ; logical name MAPIN1
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile20660axes.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475axes.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile20660axes.map
+File name for output map file on unit   1 : /tmp/peter/tempfile4475axes.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -1402,7 +1402,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1415,9 +1415,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  Data line--- axis Y X Z
  Data line--- xyzlim 0 175 0 175 0 11
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile20660axes.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475axes.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile20660axes.map
+File name for input map file on unit   1 : /tmp/peter/tempfile4475axes.map
 file size 1411424 ; logical name MAPIN1
 
 
@@ -1497,7 +1497,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1677,7 +1677,7 @@ Use the NAME keyword.
  Sum of density in this block is     0.1158E+05
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -1728,7 +1728,7 @@ Use the NAME keyword.
 
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  SFALL:   Normal Termination of structure factor calc.
-Times: User:       0.2s System:    0.0s Elapsed:     0:00  
+Times: User:       0.1s System:    0.0s Elapsed:     0:00  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -1744,7 +1744,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:14 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1924,7 +1924,7 @@ Use the NAME keyword.
  Sum of density in this block is     0.1150E+05
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -1975,7 +1975,7 @@ Use the NAME keyword.
 
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  SFALL:   Normal Termination of structure factor calc.
-Times: User:       0.2s System:    0.0s Elapsed:     0:01  
+Times: User:       0.1s System:    0.0s Elapsed:     0:01  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -1991,7 +1991,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:15 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -2009,7 +2009,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -2104,7 +2104,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -2223,7 +2223,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_solvent.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_solvent.mtz 
 
  * Title:
 
@@ -2279,7 +2279,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.2s System:    0.0s Elapsed:     0:00  
+Times: User:       0.3s System:    0.0s Elapsed:     0:00  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -2295,7 +2295,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:15 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -2342,7 +2342,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- grid 176 176 88
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_model.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_model.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -2508,7 +2508,7 @@ Use the NAME keyword.
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -2575,7 +2575,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:15 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -2593,7 +2593,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -2688,7 +2688,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -2807,7 +2807,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_model.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_model.mtz 
 
  * Title:
 
@@ -2879,7 +2879,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:15 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -2890,9 +2890,9 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Data line---     mode mapin1 mapin2
  Data line---     maps add
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile20660_protein.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475_protein.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile20660_protein.map
+File name for input map file on unit   1 : /tmp/peter/tempfile4475_protein.map
 file size 1488512 ; logical name MAPIN1
 
 
@@ -2996,7 +2996,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:15 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -3014,7 +3014,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660_model.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475_model.mtz 
 
  * Title:
 
@@ -3109,7 +3109,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660_model.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475_model.mtz 
 
  * Title:
 
@@ -3228,7 +3228,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_partstruct.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_partstruct.mtz 
 
  * Title:
 
@@ -3300,7 +3300,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:16 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -3309,7 +3309,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -3330,7 +3330,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile20660.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -3375,7 +3375,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:16 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -3422,7 +3422,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -3590,7 +3590,7 @@ Use the NAME keyword.
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -3657,7 +3657,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:16 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -3675,7 +3675,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -3770,7 +3770,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -3889,7 +3889,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -3967,10 +3967,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_element.mtz   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_element.mtz                             
+Reading file : /tmp/peter/tempfile4475_element.mtz                              
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -4078,7 +4078,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile20660_sites.mtz                              
+Writing file : /tmp/peter/tempfile4475_sites.mtz                               
 With format  : MTZ
 
 Columns used :
@@ -4095,7 +4095,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_sites.mtz   Filename: /tmp/peter/tempfile20660_sites.mtz 
+ Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -4137,7 +4137,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:16 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -4146,7 +4146,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -4167,7 +4167,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile20660.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -4212,7 +4212,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:16 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -4259,7 +4259,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -4427,7 +4427,7 @@ Use the NAME keyword.
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -4494,7 +4494,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:16 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -4512,7 +4512,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -4607,7 +4607,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -4726,7 +4726,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -4804,10 +4804,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_sites.mtz   Filename: /tmp/peter/tempfile20660_sites.mtz 
+ Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_sites.mtz                               
+Reading file : /tmp/peter/tempfile4475_sites.mtz                                
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -4836,10 +4836,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_element.mtz   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_element.mtz                             
+Reading file : /tmp/peter/tempfile4475_element.mtz                              
 With format  : MTZ
 
 Data is merged with existing information
@@ -5043,7 +5043,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile20660_new.mtz                                
+Writing file : /tmp/peter/tempfile4475_new.mtz                                 
 With format  : MTZ
 
 Columns used :
@@ -5060,7 +5060,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_new.mtz   Filename: /tmp/peter/tempfile20660_new.mtz 
+ Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -5102,7 +5102,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:17 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -5111,7 +5111,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -5132,7 +5132,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile20660.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -5177,7 +5177,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:17 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -5224,7 +5224,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -5392,7 +5392,7 @@ Use the NAME keyword.
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -5459,7 +5459,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:17 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -5477,7 +5477,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -5572,7 +5572,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -5691,7 +5691,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -5769,10 +5769,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_sites.mtz   Filename: /tmp/peter/tempfile20660_sites.mtz 
+ Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_sites.mtz                               
+Reading file : /tmp/peter/tempfile4475_sites.mtz                                
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -5801,10 +5801,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_element.mtz   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_element.mtz                             
+Reading file : /tmp/peter/tempfile4475_element.mtz                              
 With format  : MTZ
 
 Data is merged with existing information
@@ -6008,7 +6008,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile20660_new.mtz                                
+Writing file : /tmp/peter/tempfile4475_new.mtz                                 
 With format  : MTZ
 
 Columns used :
@@ -6025,7 +6025,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_new.mtz   Filename: /tmp/peter/tempfile20660_new.mtz 
+ Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -6067,7 +6067,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:17 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -6076,7 +6076,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -6097,7 +6097,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile20660.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -6142,7 +6142,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:17 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -6189,7 +6189,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -6357,7 +6357,7 @@ Use the NAME keyword.
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -6424,7 +6424,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:18 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -6442,7 +6442,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -6537,7 +6537,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -6656,7 +6656,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -6712,7 +6712,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.2s System:    0.0s Elapsed:     0:00  
+Times: User:       0.2s System:    0.0s Elapsed:     0:01  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -6734,10 +6734,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_sites.mtz   Filename: /tmp/peter/tempfile20660_sites.mtz 
+ Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_sites.mtz                               
+Reading file : /tmp/peter/tempfile4475_sites.mtz                                
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -6766,10 +6766,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_element.mtz   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_element.mtz                             
+Reading file : /tmp/peter/tempfile4475_element.mtz                              
 With format  : MTZ
 
 Data is merged with existing information
@@ -6973,7 +6973,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile20660_new.mtz                                
+Writing file : /tmp/peter/tempfile4475_new.mtz                                 
 With format  : MTZ
 
 Columns used :
@@ -6990,7 +6990,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_new.mtz   Filename: /tmp/peter/tempfile20660_new.mtz 
+ Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -7032,7 +7032,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:18 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -7041,7 +7041,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -7062,7 +7062,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile20660.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -7107,7 +7107,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:18 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -7154,7 +7154,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -7316,7 +7316,7 @@ Use the NAME keyword.
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -7383,7 +7383,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:18 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -7401,7 +7401,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -7496,7 +7496,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -7615,7 +7615,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -7693,10 +7693,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_sites.mtz   Filename: /tmp/peter/tempfile20660_sites.mtz 
+ Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_sites.mtz                               
+Reading file : /tmp/peter/tempfile4475_sites.mtz                                
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -7725,10 +7725,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_element.mtz   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_element.mtz                             
+Reading file : /tmp/peter/tempfile4475_element.mtz                              
 With format  : MTZ
 
 Data is merged with existing information
@@ -7932,7 +7932,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile20660_new.mtz                                
+Writing file : /tmp/peter/tempfile4475_new.mtz                                 
 With format  : MTZ
 
 Columns used :
@@ -7949,7 +7949,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_new.mtz   Filename: /tmp/peter/tempfile20660_new.mtz 
+ Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -7991,7 +7991,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:18 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -8000,7 +8000,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -8021,7 +8021,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile20660.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -8066,7 +8066,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:18 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -8113,7 +8113,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile20660_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -8267,7 +8267,7 @@ Use the NAME keyword.
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -8334,7 +8334,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:19 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:33 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -8352,7 +8352,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -8447,7 +8447,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
 
  * Title:
 
@@ -8566,7 +8566,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
 
  * Title:
 
@@ -8644,10 +8644,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_sites.mtz   Filename: /tmp/peter/tempfile20660_sites.mtz 
+ Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_sites.mtz                               
+Reading file : /tmp/peter/tempfile4475_sites.mtz                                
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -8676,10 +8676,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_element.mtz   Filename: /tmp/peter/tempfile20660_element.mtz 
+ Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_element.mtz                             
+Reading file : /tmp/peter/tempfile4475_element.mtz                              
 With format  : MTZ
 
 Data is merged with existing information
@@ -8883,7 +8883,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile20660_new.mtz                                
+Writing file : /tmp/peter/tempfile4475_new.mtz                                 
 With format  : MTZ
 
 Columns used :
@@ -8900,7 +8900,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_new.mtz   Filename: /tmp/peter/tempfile20660_new.mtz 
+ Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -8948,10 +8948,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_model.mtz   Filename: /tmp/peter/tempfile20660_model.mtz 
+ Logical Name: /tmp/peter/tempfile4475_model.mtz   Filename: /tmp/peter/tempfile4475_model.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_model.mtz                               
+Reading file : /tmp/peter/tempfile4475_model.mtz                                
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -8978,10 +8978,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_sites.mtz   Filename: /tmp/peter/tempfile20660_sites.mtz 
+ Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_sites.mtz                               
+Reading file : /tmp/peter/tempfile4475_sites.mtz                                
 With format  : MTZ
 
 Data is merged with existing information
@@ -9010,10 +9010,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_solvent.mtz   Filename: /tmp/peter/tempfile20660_solvent.mtz 
+ Logical Name: /tmp/peter/tempfile4475_solvent.mtz   Filename: /tmp/peter/tempfile4475_solvent.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_solvent.mtz                             
+Reading file : /tmp/peter/tempfile4475_solvent.mtz                              
 With format  : MTZ
 
 Data is merged with existing information
@@ -9040,10 +9040,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_partstruct.mtz   Filename: /tmp/peter/tempfile20660_partstruct.mtz 
+ Logical Name: /tmp/peter/tempfile4475_partstruct.mtz   Filename: /tmp/peter/tempfile4475_partstruct.mtz 
 
 
-Reading file : /tmp/peter/tempfile20660_partstruct.mtz                          
+Reading file : /tmp/peter/tempfile4475_partstruct.mtz                           
 With format  : MTZ
 
 Data is merged with existing information
@@ -9783,7 +9783,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile20660_combo.mtz                              
+Writing file : /tmp/peter/tempfile4475_combo.mtz                               
 With format  : MTZ
 
 Columns used :
@@ -9812,7 +9812,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile20660_combo.mtz   Filename: /tmp/peter/tempfile20660_combo.mtz 
+ Logical Name: /tmp/peter/tempfile4475_combo.mtz   Filename: /tmp/peter/tempfile4475_combo.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -9854,7 +9854,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date: 25/ 7/2019 Run time: 11:37:19 
+ User: peter  Run date:  1/ 8/2019 Run time: 16:14:33 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -9868,7 +9868,7 @@ Normal end program sftools
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660_combo.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475_combo.mtz 
 
  * Title:
 
@@ -9971,7 +9971,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FP E2=SIGFP E3=PHIP E4=FH E5=PHIH E6=FPH E7=SIGFPH              E8=DANO E9=SIGDANO E10=Fplus E11=Fminus E12=Fmean              E13=FHp E14=PHIHp E15=FHpp E16=PHIHpp
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile20660_combo.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475_combo.mtz 
 
  * Title:
 

@@ -1,0 +1,24 @@
+{
+HEADER_BYTES=  512;
+DIM=2;
+BYTE_ORDER=little_endian;
+TYPE=unsigned_short;
+SIZE1=2463;
+SIZE2=2527;
+BIN=2x2;
+DETECTOR_SN=440;
+BEAMLINE=FAKE;
+PIXEL_SIZE=0.172;
+BEAM_CENTER_X=217.3;
+BEAM_CENTER_Y=222.844;
+DATE=Wed Jul 31 14:18:15 EDT 2019;
+TIME=0.1;
+DISTANCE=250.432;
+TWOTHETA=0;
+OSC_RANGE=0.01;
+PHI=342;
+OSC_START=342;
+AXIS=phi;
+WAVELENGTH=1;
+}
+                                                                                                                                                                       

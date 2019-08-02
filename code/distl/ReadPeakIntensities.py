@@ -24,10 +24,10 @@ def ReadPeakIntensities(image_folder,header_contents,distl_params):
 	Takes a folder of fake detector images with .img extension...
 	and header_contents file describing simulation params...
 	and distl_params file describing peak detection algorithm
-	Returns a data frame with peak loc and intensity vs. frame no 
+	Returns a data frame with peak loc and intensity vs. frame no
 	1. Converts from img to cbf using img2cbf
-	2. Finds peaks and calculates intensities using ReadPeakIntensities	
-	3. Data frame is sorted by avg int of peaks over all frames 
+	2. Finds peaks and calculates intensities using ReadPeakIntensities
+	3. Data frame is sorted by avg int of peaks over all frames
 	4. Writes the data frame to a pickle file for later use
 	'''
 	owd = os.getcwd()
@@ -38,16 +38,16 @@ def ReadPeakIntensities(image_folder,header_contents,distl_params):
 	eps = 5 # two peaks are considered same if within +/- eps in x and y
 
 	for fnumber, fake_img in enumerate(img_list):
-		# convert img to cbf 
+		# convert img to cbf
 		img2cbf(fake_img,header_contents,keep_original=True)
 		fake_cbf = fake_img[0:-3]+'cbf'
 
 		# run DISTL to find peaks using custom params in distl_params file
 		# peak finding is highly sensitive to some particular params
 		# more info: http://cci.lbl.gov/labelit/html/spotfinder.html
-		bash_distl = distl_wrapper(fake_cbf,distl_params)		
+		bash_distl = distl_wrapper(fake_cbf,distl_params)
+		print(bash_distl)
 		stdout = os.popen(bash_distl).read()
-		
 		# store individual peak intensities
 		stdout_lines = stdout.splitlines()
 		for line_num, line in enumerate(stdout_lines):
@@ -63,7 +63,7 @@ def ReadPeakIntensities(image_folder,header_contents,distl_params):
 						is_match = True
 						x_match = x0; y_match=y0
 						break
-				
+
 				if is_match == False:
 					dic_peaks[(x,y)] = [[fnumber],[I]]
 				elif is_match == True:

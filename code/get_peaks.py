@@ -25,7 +25,7 @@ def get_peaks(peak_file_name,peak_dist=3):
     #parse peak file to get list of unclustered peaks
     peak_file = open(peak_file_name,'r')
     lines=peak_file.readlines()
-    close(peak_file)
+    #peak_file.close()
     raw_peaks=[]
     for line in lines:
         split=line.rstrip().split(' ')
@@ -57,7 +57,7 @@ def get_peaks(peak_file_name,peak_dist=3):
     print(len(peak_list))
     return peak_list
 
-def track_peaks(XYI_folder,peak_dist=3):
+def track_peaks(XYI_folder,peak_dist=3,bin_size=20,image_height=2800,image_width=2800):
     '''Takes a folder of XYI files and outputs a pd.DataFrame with
     format X Y I_1 I_2 ... I_avg'''
     #get files
@@ -68,6 +68,22 @@ def track_peaks(XYI_folder,peak_dist=3):
     for file in file_names:
         frames.append(get_peaks(file,peak_dist=peak_dist))
         print(file+" read in")
+    #split peaks into bins
+    max_bin_i=image_width//bin_size+1
+    max_bin_j=image_height//bin_size+1
+    bins=[[[[] for f in range(len(frames))] for j in range(max_bin_j)] for i in range(max_bin_i)]
+    #bin starting at x=i*bin_size,y=j*bin_size, for frame f, is given by
+    #bins[i][j][f]
+    print(image_height//bin_size+1,image_width//bin_size+1)
+    for f in range(len(frames)):
+        for p in range(len(frames[f])):
+            peak=frames[f][p]
+            x,y=peak[0],peak[1]
+            i,j=int(x//bin_size),int(y//bin_size)
+            if 0>i or i>max_bin_i or 0>j or j>max_bin_j:
+                continue
+            bins[i][j][f].append(p)
+        print("frame "+str(f+1)+" put into bins")
     #track peaks through frames and put into DataFrame
     peak_used=[[False for peak in frame] for frame in frames]
     df_peaks=pd.DataFrame(columns=['x','y']+list(range(1,len(frames)+1)))
@@ -81,7 +97,14 @@ def track_peaks(XYI_folder,peak_dist=3):
             peak=frames[frame][i]
             peak_dat=[peak[1],peak[0]]+[np.NaN]*frame+[peak[2]]
             for other_frame in range(frame+1,len(frames)):
-                for j in range(len(frames[frame])):
+                bin_i,bin_j=int(peak[0]//bin_size),int(peak[1]//bin_size)
+                ind=[]
+                for di in (-1,0,1):
+                    for dj in (-1,0,1):
+                        if bin_i+di<0 or bin_i+di>max_bin_i or bin_j+dj<0 or bin_j+dj>max_bin_j:
+                            continue
+                        ind+=bins[bin_i+di][bin_j+dj][other_frame]
+                for j in ind:
                     if peak_used[other_frame][j]:
                         continue
                     other_peak=frames[other_frame][j]
