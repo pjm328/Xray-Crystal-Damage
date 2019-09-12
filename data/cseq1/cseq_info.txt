@@ -28,8 +28,6 @@ air     37000 um
 water   100 um
 Paratone-N 150 um
 
-./hkl2XYphi.awk
-generating all spot predictions
 RESOLUTION    1.200
 WAVELENGTH    1
 DISPERSION    0.003

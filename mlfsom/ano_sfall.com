@@ -46,7 +46,7 @@ goto Setup
 # read the command line
 return_from_Setup:
 
-# get cell dimensions 
+# get cell dimensions
 set CELL = `awk '/CRYST1/{print $2,$3,$4,$5,$6,$7}' $pdbin`
 if("$SG" == "") then
     set pdbSG = `awk '/^CRYST/{print substr($0,56,12)}' $pdbin | head -1`
@@ -59,7 +59,7 @@ endif
 if("$SG" == "") set SG = P1
 
 
-# get "site file" cell dimensions 
+# get "site file" cell dimensions
 set site_cell = `awk '$1 ~ /^CRYST/{printf "%.3f %.3f %.3f %.3f %.3f %.3f\n", $2,$3,$4,$5,$6,$7;exit}' $sitepdb`
 if($#site_cell != 6 && $#CELL == 6) then
     echo "WARNING: no cell in $sitepdb"
@@ -115,7 +115,7 @@ if($hgen) then
     echo "HYDROGENS SEPARATE" |\
     hgen xyzin ${tempfile}.pdb xyzout ${tempfile}_hydrogens.pdb  >> $logfile
 
-    
+
     cat ${tempfile}.pdb |\
     awk '/^CRYST1/ || /^SCALE/{print}' |\
     cat >! ${tempfile}_model.pdb
@@ -189,7 +189,7 @@ echo "crsgrid: $crsgrid"
 
 if($?USER_ANO) then
     if(! $?only_heavy) set only_heavy = 0
- 
+
     # turn "site" PDB into anomalous atoms
     echo "END" | cat $sitepdb - |\
     awk -v switch=$only_heavy '! switch{print;next}\
@@ -350,7 +350,7 @@ mapman -b mapsize $MAPSIZE << EOF >> $logfile
 read map1 ${tempfile}ext.map CCP4
 @${tempfile}smooth.in
 write map1 ${tempfile}_smoothsolv.map CCP4
-quit 
+quit
 y
 EOF
 if(! -e ${tempfile}_smoothsolv.map) then
@@ -654,8 +654,8 @@ calc ( COL FH PHIH ) = ( COL FHp PHIHp ) ( COL FHpp PHIHpp ) +
 # assign phony errors
 calc Q COL SIGFP = $sigma
 calc Q COL SIGFPH = $sigma
-calc Q COL SIGDANO = COL SIGFPH 2 * 
-write ${tempfile}_combo.mtz col FP SIGFP PHIP FH PHIH FPH SIGFPH DANO SIGDANO Fplus Fminus Fmean FHp PHIHp FHpp PHIHpp 
+calc Q COL SIGDANO = COL SIGFPH 2 *
+write ${tempfile}_combo.mtz col FP SIGFP PHIP FH PHIH FPH SIGFPH DANO SIGDANO Fplus Fminus Fmean FHp PHIHp FHpp PHIHpp
 y
 stop
 EOF
@@ -667,7 +667,7 @@ LABIN file 1 E1=FP E2=SIGFP E3=PHIP E4=FH E5=PHIH E6=FPH E7=SIGFPH \
              E13=FHp E14=PHIHp E15=FHpp E16=PHIHpp
 CTYP  file 1 E1=F  E2=Q     E3=P    E4=F  E5=P    E6=F   E7=Q      \
              E8=D    E9=Q       E10=G     E11=G      E12=F  \
-             E13=F E14=P E15=F E16=P 
+             E13=F E14=P E15=F E16=P
 EOF
 
 # check to see if this worked
@@ -860,7 +860,7 @@ if(! -e "$pdbin") then
     cat << EOF
 usage: $0 model.pdb sites.pdb  P212121 2A fpp=4 fp=-8 sigma=1
 
-where: 
+where:
 model.pdb is a brookhaven file of the protein structure
 sites.pdb is a brookhaven file containing position/occupancy/B of anomalous scatterers
 
@@ -888,4 +888,3 @@ endif
 
 
 goto return_from_Setup
-

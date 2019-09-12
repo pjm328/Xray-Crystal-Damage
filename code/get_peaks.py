@@ -137,3 +137,25 @@ def write_peaks(file_name,df_peaks):
             line=line[0:len(line)-1]+'\n'
         file.write(line)
     file.close()
+
+def read_peaks(file_name):
+    '''Reads a csv file and output DataFrame containing peak infomation
+    file_name - string specifying file name, .csv file in format:
+    x,y,I_1,I_2,...,I-avg
+    '''
+    file=open(file_name,'r')
+    lines=file.readlines()
+    file.close()
+    frame_num=len(lines[0].rstrip().split(','))-3
+    df_peaks=pd.DataFrame(columns=['x','y']+list(range(1,frame_num+1))+['I-avg'])
+    i=0
+    print(len(lines))
+    for line in lines:
+        i+=1
+        if i%100==0:
+            print(i)
+        params=line.rstrip().split(',')
+        peak_dat=[float(p) for p in params]
+        temp_dic=dict(zip(['x','y']+list(range(1,frame_num+1))+['I-avg'],peak_dat))
+        df_peaks=df_peaks.append(temp_dic,ignore_index=True)
+    return df_peaks

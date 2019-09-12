@@ -10,7 +10,7 @@
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:24 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -19,7 +19,7 @@
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_model.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_model.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -34,7 +34,7 @@
 
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile29001.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -84,7 +84,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: HGEN             version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:24 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -93,7 +93,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -107,7 +107,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
    -0.000   0.000  -0.000   1.000       -0.000  -0.000  -0.000   1.000
 
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475_hydrogens.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile29001_hydrogens.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
@@ -121,68 +121,68 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
   XYZOUT contains hydrogens only.
 
 <!--SUMMARY_END--></FONT></B>
- FOR ATOM:  N1  DO3 A 284       2.432  24.955  34.505  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  N2  DO3 A 284       3.686  25.221  37.046  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  N3  DO3 A 284       2.653  22.584  37.858  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  N4  DO3 A 284       1.289  22.363  35.324  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O1  DO3 A 284       0.636  26.576  35.942  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O3  DO3 A 284       1.552  25.827  38.662  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O5  DO3 A 284      -0.022  22.959  38.543  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O7  DO3 A 284      -0.833  24.026  35.694  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C1  DO3 A 284       3.731  25.651  34.538  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C2  DO3 A 284       4.525  25.320  35.763  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C3  DO3 A 284       4.392  24.334  37.965  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C4  DO3 A 284       4.024  22.860  37.853  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C5  DO3 A 284       2.453  21.294  37.195  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C6  DO3 A 284       2.138  21.279  35.748  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C7  DO3 A 284       1.647  22.635  33.907  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C8  DO3 A 284       2.647  23.779  33.689  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C9  DO3 A 284       0.860  26.902  34.740  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C10 DO3 A 284       1.451  25.822  33.871  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C11 DO3 A 284       2.518  26.680  38.682  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C12 DO3 A 284       3.536  26.594  37.624  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C13 DO3 A 284       0.689  22.489  39.475  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C14 DO3 A 284       2.182  22.519  39.262  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C15 DO3 A 284      -1.171  22.833  35.176  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C16 DO3 A 284      -0.131  21.889  35.471  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C17 DO3 A 284      -2.418  22.410  35.701  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O2  DO3 A 284       0.664  28.001  34.275  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O4  DO3 A 284       2.634  27.572  39.546  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O6  DO3 A 284       0.265  22.028  40.514  0.81 17.75    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  N1  DO3 A 285      -1.338  30.342  40.292  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  N2  DO3 A 285      -3.736  28.840  40.496  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  N3  DO3 A 285      -3.083  28.282  43.267  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  N4  DO3 A 285      -0.494  29.727  43.012  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O1  DO3 A 285      -0.931  27.974  38.904  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O3  DO3 A 285      -2.793  26.319  40.471  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O5  DO3 A 285      -1.051  26.374  43.146  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O7  DO3 A 285       0.976  27.966  41.539  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C1  DO3 A 285      -2.500  30.822  39.529  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C2  DO3 A 285      -3.788  30.263  39.984  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C3  DO3 A 285      -4.787  28.744  41.542  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C4  DO3 A 285      -4.323  28.885  42.990  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C5  DO3 A 285      -2.470  29.008  44.373  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C6  DO3 A 285      -1.392  30.027  44.129  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C7  DO3 A 285      -0.164  31.049  42.401  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C8  DO3 A 285      -1.014  31.422  41.184  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C9  DO3 A 285      -0.312  28.937  38.444  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C10 DO3 A 285      -0.223  30.140  39.336  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C11 DO3 A 285      -3.765  26.501  39.724  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C12 DO3 A 285      -4.063  27.901  39.380  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C13 DO3 A 285      -2.097  25.924  43.641  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C14 DO3 A 285      -3.313  26.854  43.651  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C15 DO3 A 285       1.682  28.517  42.651  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C16 DO3 A 285       0.710  29.055  43.584  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  C17 DO3 A 285       2.482  27.507  43.305  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O2  DO3 A 285       0.219  28.959  37.338  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O4  DO3 A 285      -4.483  25.584  39.286  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  O6  DO3 A 285      -2.200  24.815  44.140  0.73 13.82    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  CL  CL  A 286      -8.320  31.181  26.967  1.00 14.42    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  CL  CL  A 287     -11.700  28.730  12.535  1.00 23.31    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  CL  CL  A 288      10.975  10.616  33.269  1.00 29.57    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  CL  CL  A 289      -7.547   9.926  14.297  1.00 15.30    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  GD  GD  A 290       0.953  24.562  36.807  0.81 15.85    NO RESIDUE TYPE IN LIBRARY
- FOR ATOM:  GD  GD  A 291      -1.381  27.838  41.363  0.73 17.72    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  N1  DO3 A 284       2.432  24.955  34.505  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  N2  DO3 A 284       3.686  25.221  37.046  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  N3  DO3 A 284       2.653  22.584  37.858  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  N4  DO3 A 284       1.289  22.363  35.324  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O1  DO3 A 284       0.636  26.576  35.942  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O3  DO3 A 284       1.552  25.827  38.662  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O5  DO3 A 284      -0.022  22.959  38.543  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O7  DO3 A 284      -0.833  24.026  35.694  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C1  DO3 A 284       3.731  25.651  34.538  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C2  DO3 A 284       4.525  25.320  35.763  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C3  DO3 A 284       4.392  24.334  37.965  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C4  DO3 A 284       4.024  22.860  37.853  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C5  DO3 A 284       2.453  21.294  37.195  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C6  DO3 A 284       2.138  21.279  35.748  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C7  DO3 A 284       1.647  22.635  33.907  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C8  DO3 A 284       2.647  23.779  33.689  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C9  DO3 A 284       0.860  26.902  34.740  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C10 DO3 A 284       1.451  25.822  33.871  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C11 DO3 A 284       2.518  26.680  38.682  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C12 DO3 A 284       3.536  26.594  37.624  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C13 DO3 A 284       0.689  22.489  39.475  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C14 DO3 A 284       2.182  22.519  39.262  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C15 DO3 A 284      -1.171  22.833  35.176  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C16 DO3 A 284      -0.131  21.889  35.471  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C17 DO3 A 284      -2.418  22.410  35.701  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O2  DO3 A 284       0.664  28.001  34.275  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O4  DO3 A 284       2.634  27.572  39.546  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O6  DO3 A 284       0.265  22.028  40.514  0.81 17.76    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  N1  DO3 A 285      -1.338  30.342  40.292  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  N2  DO3 A 285      -3.736  28.840  40.496  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  N3  DO3 A 285      -3.083  28.282  43.267  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  N4  DO3 A 285      -0.494  29.727  43.012  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O1  DO3 A 285      -0.931  27.974  38.904  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O3  DO3 A 285      -2.793  26.319  40.471  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O5  DO3 A 285      -1.051  26.374  43.146  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O7  DO3 A 285       0.976  27.966  41.539  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C1  DO3 A 285      -2.500  30.822  39.529  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C2  DO3 A 285      -3.788  30.263  39.984  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C3  DO3 A 285      -4.787  28.744  41.542  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C4  DO3 A 285      -4.323  28.885  42.990  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C5  DO3 A 285      -2.470  29.008  44.373  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C6  DO3 A 285      -1.392  30.027  44.129  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C7  DO3 A 285      -0.164  31.049  42.401  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C8  DO3 A 285      -1.014  31.422  41.184  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C9  DO3 A 285      -0.312  28.937  38.444  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C10 DO3 A 285      -0.223  30.140  39.336  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C11 DO3 A 285      -3.765  26.501  39.724  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C12 DO3 A 285      -4.063  27.901  39.380  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C13 DO3 A 285      -2.097  25.924  43.641  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C14 DO3 A 285      -3.313  26.854  43.651  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C15 DO3 A 285       1.682  28.517  42.651  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C16 DO3 A 285       0.710  29.055  43.584  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  C17 DO3 A 285       2.482  27.507  43.305  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O2  DO3 A 285       0.219  28.959  37.338  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O4  DO3 A 285      -4.483  25.584  39.286  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  O6  DO3 A 285      -2.200  24.815  44.140  0.73 13.83    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  CL  CL  A 286      -8.320  31.181  26.967  1.00 14.43    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  CL  CL  A 287     -11.700  28.730  12.535  1.00 23.32    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  CL  CL  A 288      10.975  10.616  33.269  1.00 29.58    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  CL  CL  A 289      -7.547   9.926  14.297  1.00 15.31    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  GD  GD  A 290       0.953  24.562  36.807  0.81 15.86    NO RESIDUE TYPE IN LIBRARY
+ FOR ATOM:  GD  GD  A 291      -1.381  27.838  41.363  0.73 17.73    NO RESIDUE TYPE IN LIBRARY
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
 
        995 hydrogens generated and written to XYZOUT.
@@ -206,7 +206,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:24 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -252,7 +252,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORM NGAUSS 5
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_model.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_model.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -313,9 +313,9 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
 
  Breset is -1.00
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475_protein.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile29001_protein.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile4475_protein.map
+File name for output map file on unit   1 : /tmp/peter/tempfile29001_protein.map
 logical name MAPOUT
 
 
@@ -335,17 +335,17 @@ logical name MAPOUT
 
 
   First 10 atoms of atsort - orthog coordinates
-         1N    LYS         1  2.2830  9.2670 10.8900 1.00   13.01    3
+         1N    LYS         1  2.2830  9.2670 10.8900 1.00   13.02    3
    fractional coordinates  0.02955 0.11996 0.28169
-         2CA   LYS         1  1.2870  9.6620  9.8600 1.00   13.06    2
+         2CA   LYS         1  1.2870  9.6620  9.8600 1.00   13.07    2
    fractional coordinates  0.01666 0.12507 0.25504
-         3C    LYS         1  1.3130 11.1650  9.6170 1.00   13.07    2
+         3C    LYS         1  1.3130 11.1650  9.6170 1.00   13.08    2
    fractional coordinates  0.01700 0.14453 0.24876
-         4O    LYS         1  1.2960 11.9540 10.5610 1.00   13.06    4
+         4O    LYS         1  1.2960 11.9540 10.5610 1.00   13.07    4
    fractional coordinates  0.01678 0.15474 0.27318
-         5CB   LYS         1 -0.1180  9.2360 10.3070 0.50   12.94    2
+         5CB   LYS         1 -0.1180  9.2360 10.3070 0.50   12.95    2
    fractional coordinates -0.00153 0.11956 0.26661
-         6CG   LYS         1 -1.2460  9.7200  9.4160 0.50   13.30    2
+         6CG   LYS         1 -1.2460  9.7200  9.4160 0.50   13.31    2
    fractional coordinates -0.01613 0.12583 0.24356
 
    6th Form factor added:   
@@ -360,45 +360,45 @@ logical name MAPOUT
                          13.85180  12.93310     3.54545 101.39799     2.41960   0.00000    63.96755
 
   First 10 atoms of sorted file in asym unit -  
-       50.52955  10.38004  -0.03168    113.01 1.00         3    1N    LYS 
-       50.51678  10.34526  -0.02317    413.06 1.00         4    1O    LYS 
-       50.49847  10.38044  -0.01660    512.94 0.50         2    1CB   LYS 
-       50.51666  10.37493  -0.00503    213.06 1.00         2    1CA   LYS 
-       20.35547   0.51700  -0.00123    313.07 1.00         2    1C    LYS 
-       50.51700  10.35547   0.00124    313.07 1.00         2    1C    LYS 
-       20.37493   0.51666   0.00504    213.06 1.00         2    1CA   LYS 
-       20.38044   0.49847   0.01661    512.94 0.50         2    1CB   LYS 
-       20.34525   0.51678   0.02318    413.06 1.00         4    1O    LYS 
-       20.38004   0.52955   0.03169    113.01 1.00         3    1N    LYS 
+       50.52955  10.38004  -0.03168    113.02 1.00         3    1N    LYS 
+       50.51678  10.34526  -0.02317    413.07 1.00         4    1O    LYS 
+       50.49847  10.38044  -0.01660    512.95 0.50         2    1CB   LYS 
+       50.51666  10.37493  -0.00503    213.07 1.00         2    1CA   LYS 
+       20.35547   0.51700  -0.00123    313.08 1.00         2    1C    LYS 
+       50.51700  10.35547   0.00124    313.08 1.00         2    1C    LYS 
+       20.37493   0.51666   0.00504    213.07 1.00         2    1CA   LYS 
+       20.38044   0.49847   0.01661    512.95 0.50         2    1CB   LYS 
+       20.34525   0.51678   0.02318    413.07 1.00         4    1O    LYS 
+       20.38004   0.52955   0.03169    113.02 1.00         3    1N    LYS 
 
   First atom of sorted file in atsort 
-       30.95808  10.71216  -0.06460  27810.13     51.00   35CB   GLU 
+       30.95808  10.71216  -0.06460  27810.14     51.00   35CB   GLU 
  Number of atoms input            =          2228
  Number of atoms in sort          =        4532
  Number in density generation     =   4532
  Number completely within fft box =      0
-     Minimum B =     3.35
-     Maximum B =    43.25
-     Average B =    14.27
-     Number of Bs < BfactReset =        0
+     Minimum B =     2.00
+     Maximum B =    43.26
+     Average B =    14.16
+     Number of Bs < BfactReset =       24
      Number of Bs > 99.99  =        0
- SECTION =  1   MIN AND MAX  DENSITY ARE   0.0000E+00  0.1563E+02
- SECTION =  2   MIN AND MAX  DENSITY ARE   0.0000E+00  0.6258E+01
- SECTION =  3   MIN AND MAX  DENSITY ARE   0.0000E+00  0.9999E+01
- SECTION =  4   MIN AND MAX  DENSITY ARE   0.0000E+00  0.1485E+02
- SECTION =  5   MIN AND MAX  DENSITY ARE   0.0000E+00  0.2771E+02
- SECTION =  6   MIN AND MAX  DENSITY ARE   0.0000E+00  0.2166E+02
- SECTION =  7   MIN AND MAX  DENSITY ARE   0.0000E+00  0.2242E+02
- SECTION =  8   MIN AND MAX  DENSITY ARE   0.0000E+00  0.1673E+02
- SECTION =  9   MIN AND MAX  DENSITY ARE   0.0000E+00  0.6117E+01
- SECTION = 10   MIN AND MAX  DENSITY ARE   0.0000E+00  0.6626E+01
- SECTION = 11   MIN AND MAX  DENSITY ARE   0.0000E+00  0.8885E+01
- SECTION = 12   MIN AND MAX  DENSITY ARE   0.0000E+00  0.9826E+01
+ SECTION =  1   MIN AND MAX  DENSITY ARE   0.0000E+00  0.1560E+02
+ SECTION =  2   MIN AND MAX  DENSITY ARE   0.0000E+00  0.6253E+01
+ SECTION =  3   MIN AND MAX  DENSITY ARE   0.0000E+00  0.9980E+01
+ SECTION =  4   MIN AND MAX  DENSITY ARE   0.0000E+00  0.1484E+02
+ SECTION =  5   MIN AND MAX  DENSITY ARE   0.0000E+00  0.2770E+02
+ SECTION =  6   MIN AND MAX  DENSITY ARE   0.0000E+00  0.2163E+02
+ SECTION =  7   MIN AND MAX  DENSITY ARE   0.0000E+00  0.2241E+02
+ SECTION =  8   MIN AND MAX  DENSITY ARE   0.0000E+00  0.1672E+02
+ SECTION =  9   MIN AND MAX  DENSITY ARE   0.0000E+00  0.6109E+01
+ SECTION = 10   MIN AND MAX  DENSITY ARE   0.0000E+00  0.7132E+01
+ SECTION = 11   MIN AND MAX  DENSITY ARE   0.0000E+00  0.1016E+02
+ SECTION = 12   MIN AND MAX  DENSITY ARE   0.0000E+00  0.9817E+01
  SUM OF DENSITY UP TO  THIS BLOCK IS     0.1195E+06
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475_protein.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile29001_protein.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile4475_protein.map
+File name for input map file on unit   1 : /tmp/peter/tempfile29001_protein.map
 file size 1488512 ; logical name MAPOUT
 
 
@@ -410,9 +410,9 @@ file size 1488512 ; logical name MAPOUT
            Cell dimensions .................................   77.2500    77.2500    38.6600    90.0000    90.0000    90.0000
            Fast, medium, slow axes .........................    Y    X    Z
            Minimum density .................................     0.00000
-           Maximum density .................................    27.71061
-           Mean density ....................................     0.32151
-           Rms deviation from mean density .................     0.55494
+           Maximum density .................................    27.69713
+           Mean density ....................................     0.32153
+           Rms deviation from mean density .................     0.55609
            Space-group .....................................   96
            Number of titles ................................    1
 
@@ -439,7 +439,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:24 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -448,7 +448,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_sites.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_sites.pdb
   PDB file is being opened on unit 1 for INPUT.
 
 
@@ -475,7 +475,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile29001.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -520,7 +520,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAVENV           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:27 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:24 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -539,7 +539,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  Data line--- grid 176 176 88
  Data line--- RADMAX 1.41
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_model.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_model.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -568,9 +568,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  output map limits:     1  176    1  176    1   88
 <!--SUMMARY_END--></FONT></B>
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475raw_solvent.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile29001raw_solvent.map 
 
-File name for output map file on unit   8 : /tmp/peter/tempfile4475raw_solvent.map
+File name for output map file on unit   8 : /tmp/peter/tempfile29001raw_solvent.map
 logical name MAPOUT
 
   
@@ -713,9 +713,9 @@ logical name MAPOUT
     Volume of protein (A**3) =    209694.50    
     Fraction of protein =   0.90892547    
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475raw_solvent.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile29001raw_solvent.map 
 
-File name for input map file on unit   8 : /tmp/peter/tempfile4475raw_solvent.map
+File name for input map file on unit   8 : /tmp/peter/tempfile29001raw_solvent.map
 file size 10905216 ; logical name MAPOUT
 
 
@@ -740,7 +740,7 @@ file size 10905216 ; logical name MAPOUT
 
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAVENV:  Normal termination
-Times: User:       0.4s System:    0.0s Elapsed:     0:01  
+Times: User:       0.5s System:    0.0s Elapsed:     0:01  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -756,7 +756,7 @@ Times: User:       0.4s System:    0.0s Elapsed:     0:01
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:25 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -766,9 +766,9 @@ Times: User:       0.4s System:    0.0s Elapsed:     0:01
 <!--SUMMARY_END--></FONT></B>
  Data line--- scale factor 0.334 0
 
- Logical Name: MAPIN   Filename: /tmp/peter/tempfile4475raw_solvent.map 
+ Logical Name: MAPIN   Filename: /tmp/peter/tempfile29001raw_solvent.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile4475raw_solvent.map
+File name for input map file on unit   1 : /tmp/peter/tempfile29001raw_solvent.map
 file size 10905216 ; logical name MAPIN
 
 
@@ -817,9 +817,9 @@ file size 10905216 ; logical name MAPIN
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile29001.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile4475.map
+File name for output map file on unit   1 : /tmp/peter/tempfile29001.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -848,7 +848,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:25 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -858,9 +858,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- axis Y X Z
 
- Logical Name: MAPIN   Filename: /tmp/peter/tempfile4475.map 
+ Logical Name: MAPIN   Filename: /tmp/peter/tempfile29001.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile4475.map
+File name for input map file on unit   1 : /tmp/peter/tempfile29001.map
 file size 10905216 ; logical name MAPIN
 
 
@@ -909,9 +909,9 @@ file size 10905216 ; logical name MAPIN
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile44752.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile290012.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile44752.map
+File name for output map file on unit   1 : /tmp/peter/tempfile290012.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -940,7 +940,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:25 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -950,9 +950,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- xyzlim 0 175 0 175 0 11
 
- Logical Name: MAPIN   Filename: /tmp/peter/tempfile44752.map 
+ Logical Name: MAPIN   Filename: /tmp/peter/tempfile290012.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile44752.map
+File name for input map file on unit   1 : /tmp/peter/tempfile290012.map
 file size 10905216 ; logical name MAPIN
 
 
@@ -1032,7 +1032,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:25 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1094,9 +1094,9 @@ file size 1488512 ; logical name MAPIN1
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475xyz_solvent.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile29001xyz_solvent.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile4475xyz_solvent.map
+File name for output map file on unit   1 : /tmp/peter/tempfile29001xyz_solvent.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -1125,7 +1125,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:25 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1135,9 +1135,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- xyzlim -10 98 -10 97 -10 54
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475xyz_solvent.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile29001xyz_solvent.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile4475xyz_solvent.map
+File name for input map file on unit   1 : /tmp/peter/tempfile29001xyz_solvent.map
 file size 1411424 ; logical name MAPIN1
 
 
@@ -1186,9 +1186,9 @@ file size 1411424 ; logical name MAPIN1
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475ext.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile29001ext.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile4475ext.map
+File name for output map file on unit   1 : /tmp/peter/tempfile29001ext.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -1217,7 +1217,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:25 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1228,9 +1228,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  Data line--- axis X Y Z
  Data line--- xyzlim 0 88 0 87 0 44
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475_smoothsolv.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile29001_smoothsolv.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile4475_smoothsolv.map
+File name for input map file on unit   1 : /tmp/peter/tempfile29001_smoothsolv.map
 file size 3062384 ; logical name MAPIN1
 
 
@@ -1279,9 +1279,9 @@ file size 3062384 ; logical name MAPIN1
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475trimmed.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile29001trimmed.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile4475trimmed.map
+File name for output map file on unit   1 : /tmp/peter/tempfile29001trimmed.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -1310,7 +1310,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:25 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1320,9 +1320,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
 <!--SUMMARY_END--></FONT></B>
  Data line--- axis Y X Z
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475trimmed.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile29001trimmed.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile4475trimmed.map
+File name for input map file on unit   1 : /tmp/peter/tempfile29001trimmed.map
 file size 1411424 ; logical name MAPIN1
 
 
@@ -1371,9 +1371,9 @@ file size 1411424 ; logical name MAPIN1
 
 
 
- Logical Name: MAPOUT   Filename: /tmp/peter/tempfile4475axes.map 
+ Logical Name: MAPOUT   Filename: /tmp/peter/tempfile29001axes.map 
 
-File name for output map file on unit   1 : /tmp/peter/tempfile4475axes.map
+File name for output map file on unit   1 : /tmp/peter/tempfile29001axes.map
 logical name MAPOUT
 
     Cell ..........  77.25000  77.25000  38.66000  90.00000  90.00000  90.00000
@@ -1402,7 +1402,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:25 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1415,9 +1415,9 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  Data line--- axis Y X Z
  Data line--- xyzlim 0 175 0 175 0 11
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475axes.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile29001axes.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile4475axes.map
+File name for input map file on unit   1 : /tmp/peter/tempfile29001axes.map
 file size 1411424 ; logical name MAPIN1
 
 
@@ -1497,7 +1497,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:25 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1677,7 +1677,7 @@ Use the NAME keyword.
  Sum of density in this block is     0.1158E+05
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -1728,7 +1728,7 @@ Use the NAME keyword.
 
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  SFALL:   Normal Termination of structure factor calc.
-Times: User:       0.1s System:    0.0s Elapsed:     0:00  
+Times: User:       0.2s System:    0.0s Elapsed:     0:01  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -1744,7 +1744,7 @@ Times: User:       0.1s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:28 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:26 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -1924,7 +1924,7 @@ Use the NAME keyword.
  Sum of density in this block is     0.1150E+05
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -1975,7 +1975,7 @@ Use the NAME keyword.
 
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  SFALL:   Normal Termination of structure factor calc.
-Times: User:       0.1s System:    0.0s Elapsed:     0:01  
+Times: User:       0.2s System:    0.0s Elapsed:     0:00  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -1991,7 +1991,7 @@ Times: User:       0.1s System:    0.0s Elapsed:     0:01
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:26 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -2009,7 +2009,7 @@ Times: User:       0.1s System:    0.0s Elapsed:     0:01
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -2104,7 +2104,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -2223,7 +2223,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_solvent.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_solvent.mtz 
 
  * Title:
 
@@ -2279,7 +2279,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.3s System:    0.0s Elapsed:     0:00  
+Times: User:       0.2s System:    0.0s Elapsed:     0:00  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -2295,7 +2295,7 @@ Times: User:       0.3s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:26 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -2342,7 +2342,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- grid 176 176 88
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_model.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_model.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -2459,17 +2459,17 @@ Use the NAME keyword.
 
 
   First 10 atoms of atsort - orthog coordinates
-         1N    LYS         1  2.2830  9.2670 10.8900 1.00   13.01    3
+         1N    LYS         1  2.2830  9.2670 10.8900 1.00   13.02    3
    fractional coordinates  0.02955 0.11996 0.28169
-         2CA   LYS         1  1.2870  9.6620  9.8600 1.00   13.06    2
+         2CA   LYS         1  1.2870  9.6620  9.8600 1.00   13.07    2
    fractional coordinates  0.01666 0.12507 0.25504
-         3C    LYS         1  1.3130 11.1650  9.6170 1.00   13.07    2
+         3C    LYS         1  1.3130 11.1650  9.6170 1.00   13.08    2
    fractional coordinates  0.01700 0.14453 0.24876
-         4O    LYS         1  1.2960 11.9540 10.5610 1.00   13.06    4
+         4O    LYS         1  1.2960 11.9540 10.5610 1.00   13.07    4
    fractional coordinates  0.01678 0.15474 0.27318
-         5CB   LYS         1 -0.1180  9.2360 10.3070 0.50   12.94    2
+         5CB   LYS         1 -0.1180  9.2360 10.3070 0.50   12.95    2
    fractional coordinates -0.00153 0.11956 0.26661
-         6CG   LYS         1 -1.2460  9.7200  9.4160 0.50   13.30    2
+         6CG   LYS         1 -1.2460  9.7200  9.4160 0.50   13.31    2
    fractional coordinates -0.01613 0.12583 0.24356
 
    6th Form factor added:   
@@ -2484,31 +2484,31 @@ Use the NAME keyword.
                          13.85180  12.93310     3.54545 101.39799     2.41960   0.00000    63.96755
 
   First 10 atoms of sorted file in asym unit -  
-       50.52955  10.38004  -0.03168    113.01 1.00         3    1N    LYS 
-       50.51678  10.34526  -0.02317    413.06 1.00         4    1O    LYS 
-       50.49847  10.38044  -0.01660    512.94 0.50         2    1CB   LYS 
-       50.51666  10.37493  -0.00503    213.06 1.00         2    1CA   LYS 
-       20.35547   0.51700  -0.00123    313.07 1.00         2    1C    LYS 
-       50.51700  10.35547   0.00124    313.07 1.00         2    1C    LYS 
-       20.37493   0.51666   0.00504    213.06 1.00         2    1CA   LYS 
-       20.38044   0.49847   0.01661    512.94 0.50         2    1CB   LYS 
-       20.34525   0.51678   0.02318    413.06 1.00         4    1O    LYS 
-       20.38004   0.52955   0.03169    113.01 1.00         3    1N    LYS 
+       50.52955  10.38004  -0.03168    113.02 1.00         3    1N    LYS 
+       50.51678  10.34526  -0.02317    413.07 1.00         4    1O    LYS 
+       50.49847  10.38044  -0.01660    512.95 0.50         2    1CB   LYS 
+       50.51666  10.37493  -0.00503    213.07 1.00         2    1CA   LYS 
+       20.35547   0.51700  -0.00123    313.08 1.00         2    1C    LYS 
+       50.51700  10.35547   0.00124    313.08 1.00         2    1C    LYS 
+       20.37493   0.51666   0.00504    213.07 1.00         2    1CA   LYS 
+       20.38044   0.49847   0.01661    512.95 0.50         2    1CB   LYS 
+       20.34525   0.51678   0.02318    413.07 1.00         4    1O    LYS 
+       20.38004   0.52955   0.03169    113.02 1.00         3    1N    LYS 
 
   First atom of sorted file in atsort 
-       30.95808  10.71216  -0.06460  27810.13     51.00   35CB   GLU 
+       30.95808  10.71216  -0.06460  27810.14     51.00   35CB   GLU 
  Number of atoms input            =          2228
  Number of atoms in sort          =        4532
  Number in density generation     =   4532
  Number completely within fft box =      0
-     Minimum B =     3.35
-     Maximum B =    43.25
-     Average B =    14.27
-     Number of Bs < BfactReset =        0
+     Minimum B =     2.00
+     Maximum B =    43.26
+     Average B =    14.16
+     Number of Bs < BfactReset =       24
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -2575,7 +2575,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:26 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -2593,7 +2593,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -2688,7 +2688,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -2807,7 +2807,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_model.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_model.mtz 
 
  * Title:
 
@@ -2863,7 +2863,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.2s System:    0.0s Elapsed:     0:00  
+Times: User:       0.2s System:    0.0s Elapsed:     0:01  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -2879,7 +2879,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: mapmask          version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -2890,9 +2890,9 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Data line---     mode mapin1 mapin2
  Data line---     maps add
 
- Logical Name: MAPIN1   Filename: /tmp/peter/tempfile4475_protein.map 
+ Logical Name: MAPIN1   Filename: /tmp/peter/tempfile29001_protein.map 
 
-File name for input map file on unit   1 : /tmp/peter/tempfile4475_protein.map
+File name for input map file on unit   1 : /tmp/peter/tempfile29001_protein.map
 file size 1488512 ; logical name MAPIN1
 
 
@@ -2904,9 +2904,9 @@ file size 1488512 ; logical name MAPIN1
            Cell dimensions .................................   77.2500    77.2500    38.6600    90.0000    90.0000    90.0000
            Fast, medium, slow axes .........................    Y    X    Z
            Minimum density .................................     0.00000
-           Maximum density .................................    27.71061
-           Mean density ....................................     0.32151
-           Rms deviation from mean density .................     0.55494
+           Maximum density .................................    27.69713
+           Mean density ....................................     0.32153
+           Rms deviation from mean density .................     0.55609
            Space-group .....................................   96
            Number of titles ................................    1
 
@@ -2996,7 +2996,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:29 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -3014,7 +3014,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475_model.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001_model.mtz 
 
  * Title:
 
@@ -3109,7 +3109,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475_model.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001_model.mtz 
 
  * Title:
 
@@ -3228,7 +3228,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_partstruct.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_partstruct.mtz 
 
  * Title:
 
@@ -3284,7 +3284,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.2s System:    0.0s Elapsed:     0:01  
+Times: User:       0.2s System:    0.0s Elapsed:     0:00  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -3300,7 +3300,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -3309,7 +3309,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -3330,7 +3330,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile29001.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -3375,7 +3375,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -3422,7 +3422,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -3553,44 +3553,44 @@ Use the NAME keyword.
 
 
   First 10 atoms of atsort - orthog coordinates
-         1ANO  ANO         1  1.2870  9.6620  9.8600 1.00   13.06    7
+         1ANO  ANO         1  1.2870  9.6620  9.8600 1.00   13.07    7
    fractional coordinates  0.01666 0.12507 0.25504
-         2ANO  ANO         1  1.3130 11.1650  9.6170 1.00   13.07    7
+         2ANO  ANO         1  1.3130 11.1650  9.6170 1.00   13.08    7
    fractional coordinates  0.01700 0.14453 0.24876
-         3ANO  ANO         1 -0.1180  9.2360 10.3070 0.50   12.94    7
+         3ANO  ANO         1 -0.1180  9.2360 10.3070 0.50   12.95    7
    fractional coordinates -0.00153 0.11956 0.26661
-         4ANO  ANO         1 -1.2460  9.7200  9.4160 0.50   13.30    7
+         4ANO  ANO         1 -1.2460  9.7200  9.4160 0.50   13.31    7
    fractional coordinates -0.01613 0.12583 0.24356
-         5ANO  ANO         1 -2.5900  9.1760  9.8860 0.50   13.22    7
+         5ANO  ANO         1 -2.5900  9.1760  9.8860 0.50   13.23    7
    fractional coordinates -0.03353 0.11878 0.25572
-         6ANO  ANO         1 -3.7310  9.6520  8.9930 0.50   13.67    7
+         6ANO  ANO         1 -3.7310  9.6520  8.9930 0.50   13.68    7
    fractional coordinates -0.04830 0.12494 0.23262
   First 10 atoms of sorted file in asym unit -  
-       50.49847  10.38044  -0.01660    312.94 0.50         7    1ZZZ  END 
-       20.37417   0.48387  -0.00643    413.30 0.50         7    1ZZZ  END 
-       50.46647  10.38122  -0.00571    513.22 0.50         7    1ZZZ  END 
-       50.51666  10.37493  -0.00503    113.06 1.00         7    1ZZZ  END 
-       20.35547   0.51700  -0.00123    213.07 1.00         7    1ZZZ  END 
-       50.51700  10.35547   0.00124    213.07 1.00         7    1ZZZ  END 
-       20.37493   0.51666   0.00504    113.06 1.00         7    1ZZZ  END 
-       20.38122   0.46647   0.00572    513.22 0.50         7    1ZZZ  END 
-       50.48387  10.37418   0.00644    413.30 0.50         7    1ZZZ  END 
-       20.38044   0.49847   0.01661    312.94 0.50         7    1ZZZ  END 
+       50.49847  10.38044  -0.01660    312.95 0.50         7    1ZZZ  END 
+       20.37417   0.48387  -0.00643    413.31 0.50         7    1ZZZ  END 
+       50.46647  10.38122  -0.00571    513.23 0.50         7    1ZZZ  END 
+       50.51666  10.37493  -0.00503    113.07 1.00         7    1ZZZ  END 
+       20.35547   0.51700  -0.00123    213.08 1.00         7    1ZZZ  END 
+       50.51700  10.35547   0.00124    213.08 1.00         7    1ZZZ  END 
+       20.37493   0.51666   0.00504    113.07 1.00         7    1ZZZ  END 
+       20.38122   0.46647   0.00572    513.23 0.50         7    1ZZZ  END 
+       50.48387  10.37418   0.00644    413.31 0.50         7    1ZZZ  END 
+       20.38044   0.49847   0.01661    312.95 0.50         7    1ZZZ  END 
 
   First atom of sorted file in atsort 
-       30.95808  10.71216  -0.06460  17810.13    151.00    1ZZZ  END 
+       30.95808  10.71216  -0.06460  17810.14    151.00    1ZZZ  END 
  Number of atoms input            =           658
  Number of atoms in sort          =        1344
  Number in density generation     =   1344
  Number completely within fft box =      0
-     Minimum B =     8.30
-     Maximum B =    24.57
-     Average B =    13.39
-     Number of Bs < BfactReset =        0
+     Minimum B =     2.00
+     Maximum B =    24.58
+     Average B =    13.34
+     Number of Bs < BfactReset =        4
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -3657,7 +3657,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:27 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -3675,7 +3675,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -3770,7 +3770,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -3889,7 +3889,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -3967,10 +3967,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: /tmp/peter/tempfile29001_element.mtz   Filename: /tmp/peter/tempfile29001_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_element.mtz                              
+Reading file : /tmp/peter/tempfile29001_element.mtz                             
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -4078,7 +4078,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile4475_sites.mtz                               
+Writing file : /tmp/peter/tempfile29001_sites.mtz                              
 With format  : MTZ
 
 Columns used :
@@ -4095,7 +4095,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
+ Logical Name: /tmp/peter/tempfile29001_sites.mtz   Filename: /tmp/peter/tempfile29001_sites.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -4137,7 +4137,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -4146,7 +4146,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -4167,7 +4167,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile29001.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -4212,7 +4212,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -4259,7 +4259,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -4390,44 +4390,44 @@ Use the NAME keyword.
 
 
   First 10 atoms of atsort - orthog coordinates
-         1ANO  ANO         1  2.2830  9.2670 10.8900 1.00   13.01    7
+         1ANO  ANO         1  2.2830  9.2670 10.8900 1.00   13.02    7
    fractional coordinates  0.02955 0.11996 0.28169
-         2ANO  ANO         1 -3.5820  9.1650  7.5900 0.50   13.30    7
+         2ANO  ANO         1 -3.5820  9.1650  7.5900 0.50   13.31    7
    fractional coordinates -0.04637 0.11864 0.19633
-         3ANO  ANO         1 -4.8540  9.3240  8.7470 0.50   16.73    7
+         3ANO  ANO         1 -4.8540  9.3240  8.7470 0.50   16.74    7
    fractional coordinates -0.06283 0.12070 0.22625
-         4ANO  ANO         1  1.3670 11.5580  8.3490 1.00   13.07    7
+         4ANO  ANO         1  1.3670 11.5580  8.3490 1.00   13.08    7
    fractional coordinates  0.01770 0.14962 0.21596
-         5ANO  ANO         1 -0.8280 13.9620  8.2320 1.00   13.14    7
+         5ANO  ANO         1 -0.8280 13.9620  8.2320 1.00   13.15    7
    fractional coordinates -0.01072 0.18074 0.21293
-         6ANO  ANO         1 -3.3920 15.3190  6.0610 1.00   13.12    7
+         6ANO  ANO         1 -3.3920 15.3190  6.0610 1.00   13.13    7
    fractional coordinates -0.04391 0.19830 0.15678
   First 10 atoms of sorted file in asym unit -  
-       20.38136   0.45363  -0.05366    213.30 0.50         7    1ZZZ  END 
-       20.31926   0.48928  -0.03706    513.14 1.00         7    1ZZZ  END 
-       20.35038   0.51770  -0.03403    413.07 1.00         7    1ZZZ  END 
-       50.52955  10.38004  -0.03168    113.01 1.00         7    1ZZZ  END 
-       20.37930   0.43717  -0.02374    316.73 0.50         7    1ZZZ  END 
-       50.43716  10.37930   0.02375    316.73 0.50         7    1ZZZ  END 
-       20.38004   0.52955   0.03169    113.01 1.00         7    1ZZZ  END 
-       50.51770  10.35038   0.03404    413.07 1.00         7    1ZZZ  END 
-       50.48928  10.31926   0.03707    513.14 1.00         7    1ZZZ  END 
-       50.45363  10.38136   0.05367    213.30 0.50         7    1ZZZ  END 
+       20.38136   0.45363  -0.05366    213.31 0.50         7    1ZZZ  END 
+       20.31926   0.48928  -0.03706    513.15 1.00         7    1ZZZ  END 
+       20.35038   0.51770  -0.03403    413.08 1.00         7    1ZZZ  END 
+       50.52955  10.38004  -0.03168    113.02 1.00         7    1ZZZ  END 
+       20.37930   0.43717  -0.02374    316.74 0.50         7    1ZZZ  END 
+       50.43716  10.37930   0.02375    316.74 0.50         7    1ZZZ  END 
+       20.38004   0.52955   0.03169    113.02 1.00         7    1ZZZ  END 
+       50.51770  10.35038   0.03404    413.08 1.00         7    1ZZZ  END 
+       50.48928  10.31926   0.03707    513.15 1.00         7    1ZZZ  END 
+       50.45363  10.38136   0.05367    213.31 0.50         7    1ZZZ  END 
 
   First atom of sorted file in atsort 
-       70.57103  20.81709  -0.06442  14714.32    151.00    1ZZZ  END 
+       70.57103  20.81709  -0.06442  14714.33    151.00    1ZZZ  END 
  Number of atoms input            =           203
  Number of atoms in sort          =         415
  Number in density generation     =    415
  Number completely within fft box =      0
-     Minimum B =     8.68
-     Maximum B =    23.50
-     Average B =    14.09
-     Number of Bs < BfactReset =        0
+     Minimum B =     2.00
+     Maximum B =    23.51
+     Average B =    13.98
+     Number of Bs < BfactReset =        2
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -4494,7 +4494,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:30 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -4512,7 +4512,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -4607,7 +4607,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -4726,7 +4726,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -4782,7 +4782,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.2s System:    0.0s Elapsed:     0:01  
+Times: User:       0.2s System:    0.0s Elapsed:     0:00  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -4804,10 +4804,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
+ Logical Name: /tmp/peter/tempfile29001_sites.mtz   Filename: /tmp/peter/tempfile29001_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_sites.mtz                                
+Reading file : /tmp/peter/tempfile29001_sites.mtz                               
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -4836,10 +4836,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: /tmp/peter/tempfile29001_element.mtz   Filename: /tmp/peter/tempfile29001_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_element.mtz                              
+Reading file : /tmp/peter/tempfile29001_element.mtz                             
 With format  : MTZ
 
 Data is merged with existing information
@@ -5043,7 +5043,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile4475_new.mtz                                 
+Writing file : /tmp/peter/tempfile29001_new.mtz                                
 With format  : MTZ
 
 Columns used :
@@ -5060,7 +5060,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
+ Logical Name: /tmp/peter/tempfile29001_new.mtz   Filename: /tmp/peter/tempfile29001_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -5102,7 +5102,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -5111,7 +5111,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -5132,7 +5132,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile29001.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -5177,7 +5177,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -5224,7 +5224,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -5355,44 +5355,44 @@ Use the NAME keyword.
 
 
   First 10 atoms of atsort - orthog coordinates
-         1ANO  ANO         1  1.2960 11.9540 10.5610 1.00   13.06    7
+         1ANO  ANO         1  1.2960 11.9540 10.5610 1.00   13.07    7
    fractional coordinates  0.01678 0.15474 0.27318
-         2ANO  ANO         1 -0.4260 12.7400  6.3780 1.00   13.09    7
+         2ANO  ANO         1 -0.4260 12.7400  6.3780 1.00   13.10    7
    fractional coordinates -0.00551 0.16492 0.16498
-         3ANO  ANO         1 -1.4110 16.2100  6.6900 1.00   13.24    7
+         3ANO  ANO         1 -1.4110 16.2100  6.6900 1.00   13.25    7
    fractional coordinates -0.01827 0.20984 0.17305
-         4ANO  ANO         1 -4.8440 17.0730  7.0290 1.00   12.79    7
+         4ANO  ANO         1 -4.8440 17.0730  7.0290 1.00   12.80    7
    fractional coordinates -0.06271 0.22101 0.18182
-         5ANO  ANO         1 -6.8230 19.4790  7.8310 1.00   12.52    7
+         5ANO  ANO         1 -6.8230 19.4790  7.8310 1.00   12.53    7
    fractional coordinates -0.08832 0.25216 0.20256
-         6ANO  ANO         1 -9.8750 17.4830  7.4740 1.00   12.08    7
+         6ANO  ANO         1 -9.8750 17.4830  7.4740 1.00   12.09    7
    fractional coordinates -0.12783 0.22632 0.19333
   First 10 atoms of sorted file in asym unit -  
-       20.24784   0.41168  -0.04743    512.52 1.00         7    1ZZZ  END 
-       50.51678  10.34526  -0.02317    113.06 1.00         7    1ZZZ  END 
-       20.34525   0.51678   0.02318    113.06 1.00         7    1ZZZ  END 
-       50.41167  10.24784   0.04744    512.52 1.00         7    1ZZZ  END 
-       50.43729  10.27899   0.06818    412.79 1.00         7    1ZZZ  END 
-       50.48174  10.29016   0.07695    313.24 1.00         7    1ZZZ  END 
-       50.49448  10.33508   0.08502    213.09 1.00         7    1ZZZ  END 
-       10.99449   0.16492   0.16498    213.09 1.00         7    1ZZZ  END 
-       10.98173   0.20984   0.17305    313.24 1.00         7    1ZZZ  END 
-       10.93729   0.22101   0.18182    412.79 1.00         7    1ZZZ  END 
+       20.24784   0.41168  -0.04743    512.53 1.00         7    1ZZZ  END 
+       50.51678  10.34526  -0.02317    113.07 1.00         7    1ZZZ  END 
+       20.34525   0.51678   0.02318    113.07 1.00         7    1ZZZ  END 
+       50.41167  10.24784   0.04744    512.53 1.00         7    1ZZZ  END 
+       50.43729  10.27899   0.06818    412.80 1.00         7    1ZZZ  END 
+       50.48174  10.29016   0.07695    313.25 1.00         7    1ZZZ  END 
+       50.49448  10.33508   0.08502    213.10 1.00         7    1ZZZ  END 
+       10.99449   0.16492   0.16498    213.10 1.00         7    1ZZZ  END 
+       10.98173   0.20984   0.17305    313.25 1.00         7    1ZZZ  END 
+       10.93729   0.22101   0.18182    412.80 1.00         7    1ZZZ  END 
 
   First atom of sorted file in atsort 
-       50.45300  10.06198  -0.06393  17313.32    151.00    1ZZZ  END 
+       50.45300  10.06198  -0.06393  17313.33    151.00    1ZZZ  END 
  Number of atoms input            =           356
  Number of atoms in sort          =         721
  Number in density generation     =    721
  Number completely within fft box =      0
-     Minimum B =     3.35
-     Maximum B =    43.25
-     Average B =    18.01
-     Number of Bs < BfactReset =        0
+     Minimum B =     2.00
+     Maximum B =    43.26
+     Average B =    17.94
+     Number of Bs < BfactReset =        2
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -5459,7 +5459,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:28 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -5477,7 +5477,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -5572,7 +5572,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -5691,7 +5691,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -5747,7 +5747,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.2s System:    0.0s Elapsed:     0:00  
+Times: User:       0.2s System:    0.0s Elapsed:     0:01  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -5769,10 +5769,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
+ Logical Name: /tmp/peter/tempfile29001_sites.mtz   Filename: /tmp/peter/tempfile29001_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_sites.mtz                                
+Reading file : /tmp/peter/tempfile29001_sites.mtz                               
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -5801,10 +5801,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: /tmp/peter/tempfile29001_element.mtz   Filename: /tmp/peter/tempfile29001_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_element.mtz                              
+Reading file : /tmp/peter/tempfile29001_element.mtz                             
 With format  : MTZ
 
 Data is merged with existing information
@@ -6008,7 +6008,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile4475_new.mtz                                 
+Writing file : /tmp/peter/tempfile29001_new.mtz                                
 With format  : MTZ
 
 Columns used :
@@ -6025,7 +6025,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
+ Logical Name: /tmp/peter/tempfile29001_new.mtz   Filename: /tmp/peter/tempfile29001_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -6067,7 +6067,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:29 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -6076,7 +6076,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -6097,7 +6097,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile29001.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -6142,7 +6142,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:29 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -6189,7 +6189,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -6320,44 +6320,44 @@ Use the NAME keyword.
 
 
   First 10 atoms of atsort - orthog coordinates
-         1ANO  ANO         1 -9.5900 20.5610  3.8350 1.00   16.22    7
+         1ANO  ANO         1 -9.5900 20.5610  3.8350 1.00   16.23    7
    fractional coordinates -0.12414 0.26616 0.09920
-         2ANO  ANO         1 -6.7820 19.7480 14.8860 1.00   12.10    7
+         2ANO  ANO         1 -6.7820 19.7480 14.8860 1.00   12.11    7
    fractional coordinates -0.08779 0.25564 0.38505
-         3ANO  ANO         1 -1.8720 28.9810 12.6000 1.00   10.46    7
+         3ANO  ANO         1 -1.8720 28.9810 12.6000 1.00   10.47    7
    fractional coordinates -0.02423 0.37516 0.32592
-         4ANO  ANO         1  4.8070 13.0670 26.9110 1.00   11.90    7
+         4ANO  ANO         1  4.8070 13.0670 26.9110 1.00   11.91    7
    fractional coordinates  0.06223 0.16915 0.69609
-         5ANO  ANO         1 -2.0470 15.1880 29.1470 1.00   13.45    7
+         5ANO  ANO         1 -2.0470 15.1880 29.1470 1.00   13.46    7
    fractional coordinates -0.02650 0.19661 0.75393
-         6ANO  ANO         1  6.3480 11.7390 26.9570 1.00   11.05    7
+         6ANO  ANO         1  6.3480 11.7390 26.9570 1.00   11.06    7
    fractional coordinates  0.08217 0.15196 0.69728
   First 10 atoms of sorted file in asym unit -  
-       40.66915   0.43777  -0.05390    411.90 1.00         7    1ZZZ  END 
-       70.52650  10.69661  -0.00392    513.45 1.00         7    1ZZZ  END 
-       40.69661   0.52650   0.00393    513.45 1.00         7    1ZZZ  END 
-       70.43777  10.66915   0.05391    411.90 1.00         7    1ZZZ  END 
-       20.12484   0.47577   0.07592    310.46 1.00         7    1ZZZ  END 
-       10.87586   0.26616   0.09920    116.22 1.00         7    1ZZZ  END 
-       80.74436  10.08779   0.11495    212.10 1.00         7    1ZZZ  END 
-       20.24436   0.41221   0.13505    212.10 1.00         7    1ZZZ  END 
-       50.37586  10.23384   0.15080    116.22 1.00         7    1ZZZ  END 
-       80.62484  10.02423   0.17408    310.46 1.00         7    1ZZZ  END 
+       40.66915   0.43777  -0.05390    411.91 1.00         7    1ZZZ  END 
+       70.52650  10.69661  -0.00392    513.46 1.00         7    1ZZZ  END 
+       40.69661   0.52650   0.00393    513.46 1.00         7    1ZZZ  END 
+       70.43777  10.66915   0.05391    411.91 1.00         7    1ZZZ  END 
+       20.12484   0.47577   0.07592    310.47 1.00         7    1ZZZ  END 
+       10.87586   0.26616   0.09920    116.23 1.00         7    1ZZZ  END 
+       80.74436  10.08779   0.11495    212.11 1.00         7    1ZZZ  END 
+       20.24436   0.41221   0.13505    212.11 1.00         7    1ZZZ  END 
+       50.37586  10.23384   0.15080    116.23 1.00         7    1ZZZ  END 
+       80.62484  10.02423   0.17408    310.47 1.00         7    1ZZZ  END 
 
   First atom of sorted file in atsort 
-       40.66915   0.43777  -0.05390    411.90    151.00    1ZZZ  END 
+       40.66915   0.43777  -0.05390    411.91    151.00    1ZZZ  END 
  Number of atoms input            =            10
  Number of atoms in sort          =          20
  Number in density generation     =     20
  Number completely within fft box =      0
-     Minimum B =    10.35
-     Maximum B =    17.98
-     Average B =    12.63
+     Minimum B =    10.36
+     Maximum B =    17.99
+     Average B =    12.64
      Number of Bs < BfactReset =        0
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -6424,7 +6424,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:31 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:29 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -6442,7 +6442,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -6537,7 +6537,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -6656,7 +6656,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -6712,7 +6712,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.2s System:    0.0s Elapsed:     0:01  
+Times: User:       0.2s System:    0.0s Elapsed:     0:00  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -6734,10 +6734,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
+ Logical Name: /tmp/peter/tempfile29001_sites.mtz   Filename: /tmp/peter/tempfile29001_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_sites.mtz                                
+Reading file : /tmp/peter/tempfile29001_sites.mtz                               
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -6766,10 +6766,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: /tmp/peter/tempfile29001_element.mtz   Filename: /tmp/peter/tempfile29001_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_element.mtz                              
+Reading file : /tmp/peter/tempfile29001_element.mtz                             
 With format  : MTZ
 
 Data is merged with existing information
@@ -6973,7 +6973,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile4475_new.mtz                                 
+Writing file : /tmp/peter/tempfile29001_new.mtz                                
 With format  : MTZ
 
 Columns used :
@@ -6990,7 +6990,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
+ Logical Name: /tmp/peter/tempfile29001_new.mtz   Filename: /tmp/peter/tempfile29001_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -7032,7 +7032,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -7041,7 +7041,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -7062,7 +7062,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile29001.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -7107,7 +7107,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -7154,7 +7154,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -7285,38 +7285,38 @@ Use the NAME keyword.
 
 
   First 10 atoms of atsort - orthog coordinates
-         1ANO  ANO         1 -8.3200 31.1810 26.9670 1.00   13.82    7
+         1ANO  ANO         1 -8.3200 31.1810 26.9670 1.00   13.83    7
    fractional coordinates -0.10770 0.40364 0.69754
-         2ANO  ANO         1-11.7000 28.7300 12.5350 1.00   14.42    7
+         2ANO  ANO         1-11.7000 28.7300 12.5350 1.00   14.43    7
    fractional coordinates -0.15146 0.37191 0.32424
-         3ANO  ANO         1 10.9750 10.6160 33.2690 1.00   23.31    7
+         3ANO  ANO         1 10.9750 10.6160 33.2690 1.00   23.32    7
    fractional coordinates  0.14207 0.13742 0.86055
-         4ANO  ANO         1 -7.5470  9.9260 14.2970 1.00   29.57    7
+         4ANO  ANO         1 -7.5470  9.9260 14.2970 1.00   29.58    7
    fractional coordinates -0.09770 0.12849 0.36981
   First 10 atoms of sorted file in asym unit -  
-       40.90364   0.60770  -0.05245    113.82 1.00         7    1ZZZ  END 
-       70.60770  10.90364   0.05246    113.82 1.00         7    1ZZZ  END 
-       20.12809   0.34854   0.07424    214.42 1.00         7    1ZZZ  END 
-       40.63742   0.35793   0.11055    323.31 1.00         7    1ZZZ  END 
-       20.37151   0.40230   0.11981    429.57 1.00         7    1ZZZ  END 
-       80.87151  10.09770   0.13019    429.57 1.00         7    1ZZZ  END 
-       60.13742  10.14207   0.13945    323.31 1.00         7    1ZZZ  END 
-       80.62809  10.15146   0.17576    214.42 1.00         7    1ZZZ  END 
+       40.90364   0.60770  -0.05245    113.83 1.00         7    1ZZZ  END 
+       70.60770  10.90364   0.05246    113.83 1.00         7    1ZZZ  END 
+       20.12809   0.34854   0.07424    214.43 1.00         7    1ZZZ  END 
+       40.63742   0.35793   0.11055    323.32 1.00         7    1ZZZ  END 
+       20.37151   0.40230   0.11981    429.58 1.00         7    1ZZZ  END 
+       80.87151  10.09770   0.13019    429.58 1.00         7    1ZZZ  END 
+       60.13742  10.14207   0.13945    323.32 1.00         7    1ZZZ  END 
+       80.62809  10.15146   0.17576    214.43 1.00         7    1ZZZ  END 
 
   First atom of sorted file in atsort 
-       40.90364   0.60770  -0.05245    113.82    151.00    1ZZZ  END 
+       40.90364   0.60770  -0.05245    113.83    151.00    1ZZZ  END 
  Number of atoms input            =             4
  Number of atoms in sort          =           8
  Number in density generation     =      8
  Number completely within fft box =      0
-     Minimum B =    13.82
-     Maximum B =    29.57
-     Average B =    20.28
+     Minimum B =    13.83
+     Maximum B =    29.58
+     Average B =    20.29
      Number of Bs < BfactReset =        0
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -7383,7 +7383,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -7401,7 +7401,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:00
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -7496,7 +7496,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -7615,7 +7615,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -7693,10 +7693,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
+ Logical Name: /tmp/peter/tempfile29001_sites.mtz   Filename: /tmp/peter/tempfile29001_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_sites.mtz                                
+Reading file : /tmp/peter/tempfile29001_sites.mtz                               
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -7725,10 +7725,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: /tmp/peter/tempfile29001_element.mtz   Filename: /tmp/peter/tempfile29001_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_element.mtz                              
+Reading file : /tmp/peter/tempfile29001_element.mtz                             
 With format  : MTZ
 
 Data is merged with existing information
@@ -7932,7 +7932,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile4475_new.mtz                                 
+Writing file : /tmp/peter/tempfile29001_new.mtz                                
 With format  : MTZ
 
 Columns used :
@@ -7949,7 +7949,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
+ Logical Name: /tmp/peter/tempfile29001_new.mtz   Filename: /tmp/peter/tempfile29001_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -7991,7 +7991,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: PDBSET           version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -8000,7 +8000,7 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -8021,7 +8021,7 @@ Normal end program sftools
 <!--SUMMARY_END--></FONT></B>
  Data line--- CELL 77.250 77.250 38.660 90.00 90.00 90.00
 
-  Logical name: XYZOUT  File name: /tmp/peter/tempfile4475.pdb
+  Logical name: XYZOUT  File name: /tmp/peter/tempfile29001.pdb
   PDB file is being opened on unit 2 for OUTPUT.
 
  Hydrogen atoms will be kept
@@ -8066,7 +8066,7 @@ Times: User:       0.0s System:    0.0s Elapsed:     0:00
  ###############################################################
  ### CCP4 7.0.076: SFALL            version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:32 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -8113,7 +8113,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- FORMFACTOR NGAUSS 5 Ano
  ***  Calculation symmetry using space-group CalcSpaceGroup   96 ***
 
-  Logical name: XYZIN  File name: /tmp/peter/tempfile4475_element.pdb
+  Logical name: XYZIN  File name: /tmp/peter/tempfile29001_element.pdb
   PDB file is being opened on unit 1 for INPUT.
 
   MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
@@ -8244,30 +8244,30 @@ Use the NAME keyword.
 
 
   First 10 atoms of atsort - orthog coordinates
-         1ANO  ANO         1  0.9530 24.5620 36.8070 0.81   15.30    7
+         1ANO  ANO         1  0.9530 24.5620 36.8070 0.81   15.31    7
    fractional coordinates  0.01234 0.31795 0.95207
-         2ANO  ANO         1 -1.3810 27.8380 41.3630 0.73   15.85    7
+         2ANO  ANO         1 -1.3810 27.8380 41.3630 0.73   15.86    7
    fractional coordinates -0.01788 0.36036 1.06992
   First 10 atoms of sorted file in asym unit -  
-       10.01234   0.31795  -0.04792    115.30 0.81         7    1ZZZ  END 
-       60.31796  10.01234   0.04793    115.30 0.81         7    1ZZZ  END 
-       10.98212   0.36036   0.06992    215.85 0.73         7    1ZZZ  END 
-       50.48212  10.13964   0.18008    215.85 0.73         7    1ZZZ  END 
+       10.01234   0.31795  -0.04792    115.31 0.81         7    1ZZZ  END 
+       60.31796  10.01234   0.04793    115.31 0.81         7    1ZZZ  END 
+       10.98212   0.36036   0.06992    215.86 0.73         7    1ZZZ  END 
+       50.48212  10.13964   0.18008    215.86 0.73         7    1ZZZ  END 
 
   First atom of sorted file in atsort 
-       10.01234   0.31795  -0.04792    115.30    150.81    1ZZZ  END 
+       10.01234   0.31795  -0.04792    115.31    150.81    1ZZZ  END 
  Number of atoms input            =             2
  Number of atoms in sort          =           4
  Number in density generation     =      4
  Number completely within fft box =      0
-     Minimum B =    15.30
-     Maximum B =    15.85
-     Average B =    15.58
+     Minimum B =    15.31
+     Maximum B =    15.86
+     Average B =    15.59
      Number of Bs < BfactReset =        0
      Number of Bs > 99.99  =        0
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -8318,7 +8318,7 @@ Use the NAME keyword.
 
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  SFALL:   Normal Termination of structure factor calc.
-Times: User:       0.2s System:    0.0s Elapsed:     0:01  
+Times: User:       0.2s System:    0.0s Elapsed:     0:00  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -8334,7 +8334,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:33 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:30 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -8352,7 +8352,7 @@ Times: User:       0.2s System:    0.0s Elapsed:     0:01
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -8447,7 +8447,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FC  E2=PHIC
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001.mtz 
 
  * Title:
 
@@ -8566,7 +8566,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABOUT E11=FC E21=PHIC
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: HKLOUT   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: HKLOUT   Filename: /tmp/peter/tempfile29001_element.mtz 
 
  * Title:
 
@@ -8622,7 +8622,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.2s System:    0.0s Elapsed:     0:00  
+Times: User:       0.2s System:    0.0s Elapsed:     0:01  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>
@@ -8644,10 +8644,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
+ Logical Name: /tmp/peter/tempfile29001_sites.mtz   Filename: /tmp/peter/tempfile29001_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_sites.mtz                                
+Reading file : /tmp/peter/tempfile29001_sites.mtz                               
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -8676,10 +8676,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_element.mtz   Filename: /tmp/peter/tempfile4475_element.mtz 
+ Logical Name: /tmp/peter/tempfile29001_element.mtz   Filename: /tmp/peter/tempfile29001_element.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_element.mtz                              
+Reading file : /tmp/peter/tempfile29001_element.mtz                             
 With format  : MTZ
 
 Data is merged with existing information
@@ -8883,7 +8883,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile4475_new.mtz                                 
+Writing file : /tmp/peter/tempfile29001_new.mtz                                
 With format  : MTZ
 
 Columns used :
@@ -8900,7 +8900,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_new.mtz   Filename: /tmp/peter/tempfile4475_new.mtz 
+ Logical Name: /tmp/peter/tempfile29001_new.mtz   Filename: /tmp/peter/tempfile29001_new.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -8948,10 +8948,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_model.mtz   Filename: /tmp/peter/tempfile4475_model.mtz 
+ Logical Name: /tmp/peter/tempfile29001_model.mtz   Filename: /tmp/peter/tempfile29001_model.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_model.mtz                                
+Reading file : /tmp/peter/tempfile29001_model.mtz                               
 With format  : MTZ
 
  SYMINFO file set to /home/peter/Programs/CCP4/ccp4-7.0/lib/data/syminfo.lib 
@@ -8978,10 +8978,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_sites.mtz   Filename: /tmp/peter/tempfile4475_sites.mtz 
+ Logical Name: /tmp/peter/tempfile29001_sites.mtz   Filename: /tmp/peter/tempfile29001_sites.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_sites.mtz                                
+Reading file : /tmp/peter/tempfile29001_sites.mtz                               
 With format  : MTZ
 
 Data is merged with existing information
@@ -9010,10 +9010,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_solvent.mtz   Filename: /tmp/peter/tempfile4475_solvent.mtz 
+ Logical Name: /tmp/peter/tempfile29001_solvent.mtz   Filename: /tmp/peter/tempfile29001_solvent.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_solvent.mtz                              
+Reading file : /tmp/peter/tempfile29001_solvent.mtz                             
 With format  : MTZ
 
 Data is merged with existing information
@@ -9040,10 +9040,10 @@ selected: READ
 
 
  OPENED INPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_partstruct.mtz   Filename: /tmp/peter/tempfile4475_partstruct.mtz 
+ Logical Name: /tmp/peter/tempfile29001_partstruct.mtz   Filename: /tmp/peter/tempfile29001_partstruct.mtz 
 
 
-Reading file : /tmp/peter/tempfile4475_partstruct.mtz                           
+Reading file : /tmp/peter/tempfile29001_partstruct.mtz                          
 With format  : MTZ
 
 Data is merged with existing information
@@ -9783,7 +9783,7 @@ selected: WRITE
 
 
 
-Writing file : /tmp/peter/tempfile4475_combo.mtz                               
+Writing file : /tmp/peter/tempfile29001_combo.mtz                              
 With format  : MTZ
 
 Columns used :
@@ -9812,7 +9812,7 @@ TYPE  LABEL
 
 
  WRITTEN OUTPUT MTZ FILE 
- Logical Name: /tmp/peter/tempfile4475_combo.mtz   Filename: /tmp/peter/tempfile4475_combo.mtz 
+ Logical Name: /tmp/peter/tempfile29001_combo.mtz   Filename: /tmp/peter/tempfile29001_combo.mtz 
 
 
 >> give your option (or hit <return> to list options)
@@ -9854,7 +9854,7 @@ Normal end program sftools
  ###############################################################
  ### CCP4 7.0.076: CAD              version 7.0.076 :         ##
  ###############################################################
- User: peter  Run date:  1/ 8/2019 Run time: 16:14:33 
+ User: peter  Run date: 12/ 9/2019 Run time: 00:41:31 
 
 
  Please reference: Collaborative Computational Project, Number 4. 2011.
@@ -9863,12 +9863,12 @@ Normal end program sftools
 
 <!--SUMMARY_END--></FONT></B>
  Data line--- LABIN file 1 E1=FP E2=SIGFP E3=PHIP E4=FH E5=PHIH E6=FPH E7=SIGFPH              E8=DANO E9=SIGDANO E10=Fplus E11=Fminus E12=Fmean              E13=FHp E14=PHIHp E15=FHpp E16=PHIHpp
- Data line--- CTYP  file 1 E1=F  E2=Q     E3=P    E4=F  E5=P    E6=F   E7=Q                   E8=D    E9=Q       E10=G     E11=G      E12=F               E13=F E14=P E15=F E16=P 
+ Data line--- CTYP  file 1 E1=F  E2=Q     E3=P    E4=F  E5=P    E6=F   E7=Q                   E8=D    E9=Q       E10=G     E11=G      E12=F               E13=F E14=P E15=F E16=P
     Indices output even if all data items flagged "missing"
  Warning, NOT all LABOUT data lines given
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475_combo.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001_combo.mtz 
 
  * Title:
 
@@ -9971,7 +9971,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Data line--- LABIN  E1=FP E2=SIGFP E3=PHIP E4=FH E5=PHIH E6=FPH E7=SIGFPH              E8=DANO E9=SIGDANO E10=Fplus E11=Fminus E12=Fmean              E13=FHp E14=PHIHp E15=FHpp E16=PHIHpp
 
  OPENED INPUT MTZ FILE 
- Logical Name: HKLIN1   Filename: /tmp/peter/tempfile4475_combo.mtz 
+ Logical Name: HKLIN1   Filename: /tmp/peter/tempfile29001_combo.mtz 
 
  * Title:
 
@@ -10158,7 +10158,7 @@ Reference asymmetric unit: "h>=k and k>=0 and l>=0"
  Final Total of Missing records to HKLOUT =          0
 <B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
  CAD:   *** Normal Termination of CAD ***
-Times: User:       0.2s System:    0.0s Elapsed:     0:01  
+Times: User:       0.3s System:    0.0s Elapsed:     0:00  
 </pre>
 </html>
 <!--SUMMARY_END--></FONT></B>

@@ -176,7 +176,7 @@ param                       flux mosaic beam_size xtal_size
 value          - is the desired value for param
 
 example:
-mlfsom.com /data/${user}/test_1_001.img frames=100 1s 12657eV 200mm 
+mlfsom.com /data/${user}/test_1_001.img frames=100 1s 12657eV 200mm
 
 EOF
 exit 9
@@ -278,7 +278,7 @@ awk 'BEGIN{srand()} {for(i=1;i<=50*$1*(($2+1)/($3+1));++i){\
   }fac=sqrt(-2*log(rsq)/rsq);\
   print x*fac}}' |\
 cat >! ${tempfile}.gaussian_deviates
-set gaussdev_index = 0 
+set gaussdev_index = 0
 
 
 
@@ -1008,11 +1008,11 @@ EOF
 
 
 # add shot noise (after applying the vignette mask)
-# add read noise (calculate as noise-equivalent power 
+# add read noise (calculate as noise-equivalent power
 # using (readnoise/EOgain)^2 to convert to "equivalent photon fog":
 # this number of photons/pixel will deposit the same amount of noise as the read noise
 set readnoise_photons = `echo $readnoise $EOgain | awk '{print ($1/$2)^2}'`
-# this is the rms error (in photon equivalents/pixel) that the read noise will create 
+# this is the rms error (in photon equivalents/pixel) that the read noise will create
 set readnoise_rmsphotons = `echo $readnoise $EOgain | awk '{print $1/$2}'`
 set inv_gain = `echo $gain | awk '{print 1/$1}'`
 
@@ -1063,7 +1063,7 @@ EOF
 
 # point-spread function simulated by a Gussian image blur
 if ("$psf" != "0") then
-    # oversample the Gaussian by 10x since the shape of the PSF 
+    # oversample the Gaussian by 10x since the shape of the PSF
     # probably varies significantly from one side of the pixel to the other
     echo $psf $pixel |\
     awk '{sigma=$1/$2;for(x=-1;x<=1;x+=0.1)for(y=-1;y<=1;y+=0.1){\
@@ -1409,7 +1409,7 @@ awk '{height=$1;Hdiv=$2/57.3;Vdiv=$3/57.3;dist=$4;pixel=$7;y=$5/pixel;x=$6/pixel
 
 
 # incoherent scattering
-# elastic (diffuse) scatter from xtal 
+# elastic (diffuse) scatter from xtal
 # AND Compton form xtal
 # fluorescence from xtal?
 
@@ -1485,7 +1485,7 @@ foreach atom ( `awk '{print $1}' ${tempfile}diffuse_scatter_atoms.txt | sort -u`
 
 end
 
-# now combine the diffuse scatter fraction sum and atom count with the 
+# now combine the diffuse scatter fraction sum and atom count with the
 # structure factor and Compton "exess electrons"
 # diffuse scatter is the difference between the scattering from the atom in the gas phase
 # and the scattering from the atom in the crystal lattice
@@ -1633,7 +1633,7 @@ foreach material ( $nonxtal_materials )
     # fluence*(re^2)*molecules
     set I_over_Fsq = `echo $noisy_thomson $molecules | awk '{print $1*$2}'`
 
-    # generate the form factor for this material 
+    # generate the form factor for this material
     # (from a file containing "electrons/molecule" vs sin(theta)/lambda)
     set Rmax = `echo $dimx $dimy | awk '{print 2*int(sqrt($1*$1+$2*$2))}'`
     set samples = `echo $Rmax | awk '{print $1+1}'`
@@ -1776,7 +1776,7 @@ cat fit2d_${num}.in |\
 fit2d -nographics >! ${tempfile}.fit2d.log
 
 # go easy on NFS
-mv ${tempfile}.fit2d.log fit2d_${num}.log 
+mv ${tempfile}.fit2d.log fit2d_${num}.log
 
 cat ${tempfile}.header |\
 awk 'BEGIN{pad=512} {print;pad-=length($0)+1}\
@@ -1903,7 +1903,6 @@ foreach arg ( $* )
     if("$arg" =~ *A && "$number" != "")  set arg = "wave=$number"
     if("$arg" =~ *eV && "$number" != "") set arg = "energy=$number"
 
-
     set afterequals = `echo $arg | awk -F "=" '{print $NF}'`
     set afternum = `echo $arg | awk -F "=" '$NF+0>0.0001{print $NF+0}'`
     set afternums = `echo $arg | awk -F "=" '$NF ~ /^[0-9-]/{print $NF}' | awk -F "," '{print $1,$2,$3}'`
@@ -1983,7 +1982,7 @@ foreach arg ( $* )
 	    rm -f ${tempfile}rcell
 	    set old_wavelength = `echo $rcell $true_rcell | awk '{print ($1/$4+$2/$5+$3/$6)/3}'`
 	    set Amatrix = `head -3 $matfile | awk -v l=$old_wavelength '{print $1/l,$2/l,$3/l}'`
-	    
+
 	    set missets = ""
 	else
 	    echo "WARNING: $matfile does not exist"
@@ -1993,6 +1992,10 @@ foreach arg ( $* )
 	if ($#afternums == 2) set beam_center = ( $afternums )
     endif
 
+    if("$arg" =~ id=* && "$arg" =~ *[0-9]*) then
+      set id = `echo $arg | awk -F "=" '{print $NF+0}'`
+      set tempfile = ${CCP4_SCR}/mlfsom_tempfile${id}
+    endif
     if("$arg" =~ phi=* && "$arg" =~ *[0-9]*) then
 	set phi0 = `echo $arg | awk -F "=" '{print $NF+0}'`
     endif
@@ -2184,16 +2187,3 @@ set adxv_center = `echo $beam_center $pixel $dimx $dimy | awk '{w=$5*$3; print $
 set outprefix = "$directory/$name"
 
 goto Return_from_Setup
-
-
-
-
-
-
-
-
-
-
-
-
-

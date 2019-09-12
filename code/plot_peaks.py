@@ -32,8 +32,8 @@ def plot_peaks(df_peaks,N,title,file_name):
 
     print("generated "+file_name)
 
-data_folder = "/home/peter/Desktop/Summer_Research_2019/code/data/cseq1"
+data_folder = "/home/peter/Desktop/Summer_Research_2019/code/data/mseq6"
 df_peaks = track_peaks(data_folder)
-write_peaks("cseq1.csv",df_peaks)
-plot_peaks(df_peaks,50,'Highest peaks with increasing dose at cell_k=0.3',
-    'Highest_peaks_changing_dose_at_cell_k=0.3.svg')
+write_peaks("mseq6.csv",df_peaks)
+plot_peaks(df_peaks,50,'Highest peaks with increasing mosaicity',
+    'Highest_peaks_changing_mosaicity_6.svg')
